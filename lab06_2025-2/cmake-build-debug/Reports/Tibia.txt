@@ -1,0 +1,15 @@
+CODE: PA184Q16
+NAME: tibia
+LINK: https://Laboratory06_2025_2/Reports/Tibia
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+22/10/2025      ESL_CSGO        1.055           0.597           01:59:48
+27/10/2025      Myth            4.686           0.13            01:42:14
+01/10/2025      nl_Kripp        1.417           0.919           00:02:27
+20/09/2025      loltyler1       4.166           0.795           00:34:16
+16/10/2025      Alanzoka        4.963           0.455           00:02:44
+================================================================================
+AVERAGE OF RATING  3.2574
+AVERAGE DROP OFF  0.5792
+TOTAL DURATION  04:21:29

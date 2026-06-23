@@ -1,0 +1,17 @@
+CODE: QA163C53
+NAME: magic_the_gathering
+LINK: https://Laboratory06_2025_2/Reports/Magic_The_Gathering
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+21/09/2025      summit1g        3.389           0.167           02:12:03
+12/10/2025      Pestily         1.654           0.244           02:10:28
+28/08/2025      riotgames       4.601           0.639           02:19:58
+01/09/2025      TheGrefg        1.861           0.343           00:00:43
+28/09/2025      OgamingLoL      4.373           0.584           01:48:09
+20/08/2025      NICKMERCS       4.165           0.668           00:41:02
+12/09/2025      TheGrefg        3.575           0.664           01:57:48
+================================================================================
+AVERAGE OF RATING  3.374
+AVERAGE DROP OFF  0.472714
+TOTAL DURATION  11:10:11

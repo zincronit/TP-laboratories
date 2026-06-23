@@ -1,0 +1,15 @@
+CODE: UW174Q61
+NAME: music
+LINK: https://Laboratory06_2025_2/Reports/Music
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+06/09/2025      Anomaly         4.587           0.711           01:18:37
+11/10/2025      TimTheTatman    1.883           0.942           00:37:35
+11/09/2025      TimTheTatman    3.873           0.265           00:56:18
+04/10/2025      Alanzoka        4.764           0.629           02:21:59
+01/11/2025      summit1g        1.887           0.527           00:02:18
+================================================================================
+AVERAGE OF RATING  3.3988
+AVERAGE DROP OFF  0.6148
+TOTAL DURATION  05:16:47

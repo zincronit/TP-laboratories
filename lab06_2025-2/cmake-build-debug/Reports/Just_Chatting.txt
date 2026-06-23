@@ -1,0 +1,13 @@
+CODE: UM163F47
+NAME: just_chatting
+LINK: https://Laboratory06_2025_2/Reports/Just_Chatting
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+14/09/2025      Anomaly         1.377           0.194           02:08:10
+01/10/2025      ROSHTEIN        3.228           0.257           00:57:19
+22/10/2025      TheGrefg        2.484           0.534           01:30:43
+================================================================================
+AVERAGE OF RATING  2.363
+AVERAGE DROP OFF  0.328333
+TOTAL DURATION  04:36:12

@@ -1,0 +1,18 @@
+CODE: LB198Z91
+NAME: deadlock
+LINK: https://Laboratory06_2025_2/Reports/Deadlock
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+18/08/2025      LCK_Korea       1.105           0.663           02:06:52
+04/10/2025      loltyler1       1.268           0.916           01:48:26
+25/08/2025      YoDa            2.675           0.837           01:03:39
+05/09/2025      handongsuk      2.742           0.171           01:52:28
+12/09/2025      Lord_Kebun      1.098           0.937           02:17:14
+30/08/2025      Fextralife      2.203           0.614           01:20:30
+11/09/2025      Fresh           2.397           0.099           01:29:51
+18/09/2025      handongsuk      2.18            0.602           00:57:27
+================================================================================
+AVERAGE OF RATING  1.9585
+AVERAGE DROP OFF  0.604875
+TOTAL DURATION  12:56:27

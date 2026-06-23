@@ -1,0 +1,11 @@
+CODE: AF136N84
+NAME: metal_gear_solid_v_the_phantom_pain
+LINK: https://Laboratory06_2025_2/Reports/Metal_Gear_Solid_V_The_Phantom_Pain
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+20/08/2025      MOONMOON        4.703           0.754           01:08:07
+================================================================================
+AVERAGE OF RATING  4.703
+AVERAGE DROP OFF  0.754
+TOTAL DURATION  01:08:07

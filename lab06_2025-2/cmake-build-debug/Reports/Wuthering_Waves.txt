@@ -1,0 +1,12 @@
+CODE: TB183R89
+NAME: wuthering_waves
+LINK: https://Laboratory06_2025_2/Reports/Wuthering_Waves
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+18/09/2025      dota2mc_ru      3.662           0.101           00:40:02
+02/11/2025      LEC             2.666           0.755           02:18:14
+================================================================================
+AVERAGE OF RATING  3.164
+AVERAGE DROP OFF  0.428
+TOTAL DURATION  02:58:16

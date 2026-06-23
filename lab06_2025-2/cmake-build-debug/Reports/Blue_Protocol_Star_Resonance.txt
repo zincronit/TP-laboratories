@@ -1,0 +1,15 @@
+CODE: BC173T92
+NAME: blue_protocol_star_resonance
+LINK: https://Laboratory06_2025_2/Reports/Blue_Protocol_Star_Resonance
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+06/10/2025      BeyondTheSummit 3.996           0.634           00:33:50
+28/09/2025      NICKMERCS       1.953           0.52            02:12:20
+29/10/2025      xQcOW           2.482           0.556           01:52:28
+25/08/2025      LCK_Korea       1.796           0.466           00:16:42
+10/10/2025      YoDa            1.555           0.923           00:55:26
+================================================================================
+AVERAGE OF RATING  2.3564
+AVERAGE DROP OFF  0.6198
+TOTAL DURATION  05:50:46

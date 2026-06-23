@@ -1,0 +1,16 @@
+CODE: SJ181Q95
+NAME: pools_hot_tubs_and_beaches
+LINK: https://Laboratory06_2025_2/Reports/Pools_Hot_Tubs_And_Beaches
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+01/11/2025      LCK             4.666           0.448           01:48:17
+07/10/2025      Tfue            2.643           0.174           01:01:38
+21/08/2025      dota2mc_ru      2.465           0.301           00:40:45
+08/10/2025      loltyler1       1.299           0.479           02:20:15
+01/11/2025      Asmongold       2.031           0.316           02:02:07
+03/11/2025      ESL_CSGO        2.448           0.17            01:41:14
+================================================================================
+AVERAGE OF RATING  2.592
+AVERAGE DROP OFF  0.314667
+TOTAL DURATION  09:34:16

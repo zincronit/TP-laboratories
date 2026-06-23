@@ -1,0 +1,14 @@
+CODE: PC112O99
+NAME: warframe
+LINK: https://Laboratory06_2025_2/Reports/Warframe
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+25/09/2025      Alanzoka        1.44            0.79            02:02:50
+17/10/2025      LCS             1.679           0.749           01:18:12
+23/08/2025      LIRIK           4.384           0.149           00:31:32
+28/10/2025      Yassuo          4.37            0.512           01:10:34
+================================================================================
+AVERAGE OF RATING  2.96825
+AVERAGE DROP OFF  0.55
+TOTAL DURATION  05:03:08

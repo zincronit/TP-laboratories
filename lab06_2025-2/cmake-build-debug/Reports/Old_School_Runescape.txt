@@ -1,0 +1,13 @@
+CODE: RQ191T25
+NAME: old_school_runescape
+LINK: https://Laboratory06_2025_2/Reports/Old_School_Runescape
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+29/09/2025      TheGrefg        3.711           0.966           01:22:05
+13/09/2025      hanryang1125    4.41            0.911           00:16:25
+30/10/2025      Rubius          1.059           0.587           00:13:58
+================================================================================
+AVERAGE OF RATING  3.06
+AVERAGE DROP OFF  0.821333
+TOTAL DURATION  01:52:28

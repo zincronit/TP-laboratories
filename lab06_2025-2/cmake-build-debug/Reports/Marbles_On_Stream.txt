@@ -1,0 +1,18 @@
+CODE: CW154A34
+NAME: marbles_on_stream
+LINK: https://Laboratory06_2025_2/Reports/Marbles_On_Stream
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+15/09/2025      nl_Kripp        1.96            0.832           00:10:05
+04/10/2025      YoDa            1.349           0.802           02:01:49
+12/09/2025      Solary          4.638           0.112           02:13:47
+20/09/2025      LIRIK           2.577           0.196           01:50:27
+03/09/2025      Fresh           2.613           0.869           00:16:42
+10/10/2025      Evelone192      1.531           0.857           01:19:29
+23/08/2025      Fextralife      2.912           0.311           01:35:20
+23/10/2025      Rubius          1.052           0.589           00:35:51
+================================================================================
+AVERAGE OF RATING  2.329
+AVERAGE DROP OFF  0.571
+TOTAL DURATION  10:03:30

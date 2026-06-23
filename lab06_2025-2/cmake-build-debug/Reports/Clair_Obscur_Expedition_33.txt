@@ -1,0 +1,13 @@
+CODE: XL132F68
+NAME: clair_obscur_expedition_33
+LINK: https://Laboratory06_2025_2/Reports/Clair_Obscur_Expedition_33
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+21/09/2025      DrLupo          1.906           0.796           01:58:13
+31/08/2025      xQcOW           3.963           0.93            01:50:53
+30/08/2025      Yassuo          2.969           0.771           00:45:04
+================================================================================
+AVERAGE OF RATING  2.946
+AVERAGE DROP OFF  0.832333
+TOTAL DURATION  04:34:10

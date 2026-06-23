@@ -1,0 +1,15 @@
+CODE: KS132B14
+NAME: asmr
+LINK: https://Laboratory06_2025_2/Reports/Asmr
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+17/09/2025      dota2mc_ru      4.578           0.937           01:31:44
+26/09/2025      BeyondTheSummit 3.996           0.056           00:52:51
+06/10/2025      Tfue            2.688           0.718           00:43:38
+02/09/2025      Yassuo          1.159           0.704           02:18:06
+01/11/2025      ESL_CSGO        1.449           0.58            01:01:03
+================================================================================
+AVERAGE OF RATING  2.774
+AVERAGE DROP OFF  0.599
+TOTAL DURATION  06:27:22

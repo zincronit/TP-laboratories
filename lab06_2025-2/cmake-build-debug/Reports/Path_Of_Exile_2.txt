@@ -1,0 +1,15 @@
+CODE: LD127Y85
+NAME: path_of_exile_2
+LINK: https://Laboratory06_2025_2/Reports/Path_Of_Exile_2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+01/11/2025      Auronplay       3.444           0.424           00:58:45
+01/09/2025      DrLupo          2.982           0.328           01:25:49
+01/11/2025      YoDa            3.674           0.399           01:20:04
+27/09/2025      LCS             4.773           0.416           01:59:14
+28/08/2025      Lord_Kebun      1.471           0.069           01:49:44
+================================================================================
+AVERAGE OF RATING  3.2688
+AVERAGE DROP OFF  0.3272
+TOTAL DURATION  07:33:36

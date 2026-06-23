@@ -1,0 +1,13 @@
+CODE: NS118H61
+NAME: virtual_casino
+LINK: https://Laboratory06_2025_2/Reports/Virtual_Casino
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/10/2025      nl_Kripp        1.646           0.393           00:06:03
+19/08/2025      NICKMERCS       3.534           0.205           00:09:13
+08/10/2025      Asmongold       3.265           0.363           01:51:36
+================================================================================
+AVERAGE OF RATING  2.815
+AVERAGE DROP OFF  0.320333
+TOTAL DURATION  02:06:52

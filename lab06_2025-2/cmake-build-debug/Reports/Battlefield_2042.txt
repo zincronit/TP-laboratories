@@ -1,0 +1,11 @@
+CODE: IR129C28
+NAME: battlefield_2042
+LINK: https://Laboratory06_2025_2/Reports/Battlefield_2042
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+07/10/2025      TheRealKnossi   2.658           0.486           01:51:01
+================================================================================
+AVERAGE OF RATING  2.658
+AVERAGE DROP OFF  0.486
+TOTAL DURATION  01:51:01

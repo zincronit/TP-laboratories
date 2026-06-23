@@ -1,0 +1,18 @@
+CODE: NL146N94
+NAME: dota_2
+LINK: https://Laboratory06_2025_2/Reports/Dota_2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+25/08/2025      Auronplay       2.659           0.081           01:01:29
+10/10/2025      TheRealKnossi   3.742           0.533           02:12:55
+29/09/2025      HasanAbi        3.71            0.554           00:16:51
+27/10/2025      TimTheTatman    3.237           0.718           02:11:37
+01/10/2025      Pestily         3.379           0.777           00:43:55
+01/11/2025      Yassuo          1.816           0.799           00:03:27
+15/09/2025      loltyler1       1.567           0.028           01:31:09
+08/09/2025      Tfue            1.94            0.353           02:21:16
+================================================================================
+AVERAGE OF RATING  2.75625
+AVERAGE DROP OFF  0.480375
+TOTAL DURATION  10:22:39

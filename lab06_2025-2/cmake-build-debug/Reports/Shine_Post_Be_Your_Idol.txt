@@ -1,0 +1,13 @@
+CODE: KK121N95
+NAME: shine_post_be_your_idol
+LINK: https://Laboratory06_2025_2/Reports/Shine_Post_Be_Your_Idol
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+01/10/2025      Rubius          1.476           0.942           01:21:04
+02/11/2025      CohhCarnage     3.939           0.936           01:26:41
+07/10/2025      xQcOW           4.383           0.87            00:48:32
+================================================================================
+AVERAGE OF RATING  3.266
+AVERAGE DROP OFF  0.916
+TOTAL DURATION  03:36:17

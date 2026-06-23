@@ -1,0 +1,17 @@
+CODE: UE163E26
+NAME: final_fantasy_xiv_online
+LINK: https://Laboratory06_2025_2/Reports/Final_Fantasy_Xiv_Online
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+28/09/2025      ESL_CSGO        3.193           0.198           01:25:32
+18/10/2025      sodapoppin      1.858           0.715           01:06:58
+15/10/2025      ROSHTEIN        1.139           0.722           00:27:39
+28/10/2025      Auronplay       1.223           0.954           01:10:25
+02/10/2025      LCK_Korea       1.449           0.487           01:23:14
+20/09/2025      Evelone192      3.517           0.489           01:40:05
+21/08/2025      LIRIK           2.36            0.368           01:00:03
+================================================================================
+AVERAGE OF RATING  2.10557
+AVERAGE DROP OFF  0.561857
+TOTAL DURATION  08:13:56

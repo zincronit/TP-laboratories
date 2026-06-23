@@ -1,0 +1,15 @@
+CODE: ZG113P58
+NAME: retro
+LINK: https://Laboratory06_2025_2/Reports/Retro
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+04/10/2025      Gaules          2.851           0.626           00:38:01
+01/11/2025      BeyondTheSummit 4.343           0.795           01:23:05
+10/09/2025      Asmongold       1.19            0.566           01:02:04
+27/09/2025      YoDa            4.074           0.539           01:53:37
+31/08/2025      LEC             4.052           0.388           00:26:21
+================================================================================
+AVERAGE OF RATING  3.302
+AVERAGE DROP OFF  0.5828
+TOTAL DURATION  05:23:08

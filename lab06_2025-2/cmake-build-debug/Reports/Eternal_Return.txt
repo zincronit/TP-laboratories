@@ -1,0 +1,13 @@
+CODE: TM145B57
+NAME: eternal_return
+LINK: https://Laboratory06_2025_2/Reports/Eternal_Return
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+02/10/2025      Gaules          4.403           0.587           00:29:31
+27/08/2025      DrDisrespect    2.233           0.415           02:21:50
+03/09/2025      OgamingLoL      2.938           0.398           00:24:29
+================================================================================
+AVERAGE OF RATING  3.19133
+AVERAGE DROP OFF  0.466667
+TOTAL DURATION  03:15:50

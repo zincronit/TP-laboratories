@@ -1,0 +1,14 @@
+CODE: RK128P86
+NAME: last_epoch
+LINK: https://Laboratory06_2025_2/Reports/Last_Epoch
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+23/08/2025      Sardoche        3.542           0.434           00:30:40
+22/10/2025      Tfue            3.007           0.815           00:26:30
+25/09/2025      Fresh           4.897           0.819           01:39:04
+15/09/2025      TheGrefg        2.427           0.657           00:02:36
+================================================================================
+AVERAGE OF RATING  3.46825
+AVERAGE DROP OFF  0.68125
+TOTAL DURATION  02:38:50

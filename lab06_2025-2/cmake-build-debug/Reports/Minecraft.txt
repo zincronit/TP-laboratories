@@ -1,0 +1,11 @@
+CODE: DT153T53
+NAME: minecraft
+LINK: https://Laboratory06_2025_2/Reports/Minecraft
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+30/08/2025      ibai            2.652           0.337           00:19:26
+================================================================================
+AVERAGE OF RATING  2.652
+AVERAGE DROP OFF  0.337
+TOTAL DURATION  00:19:26

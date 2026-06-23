@@ -1,0 +1,13 @@
+CODE: HW116B55
+NAME: art
+LINK: https://Laboratory06_2025_2/Reports/Art
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+14/09/2025      Sardoche        3.454           0.866           00:19:44
+11/10/2025      LCS             4.036           0.938           01:48:26
+22/10/2025      CohhCarnage     2.875           0.847           00:21:10
+================================================================================
+AVERAGE OF RATING  3.455
+AVERAGE DROP OFF  0.883667
+TOTAL DURATION  02:29:20

@@ -1,0 +1,13 @@
+CODE: KO184K63
+NAME: teamfight_tactics
+LINK: https://Laboratory06_2025_2/Reports/Teamfight_Tactics
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+25/08/2025      Dota2RuHub      2.115           0.565           00:49:58
+27/09/2025      Gotaga          1.43            0.969           00:34:08
+29/10/2025      Pestily         3.546           0.549           01:09:24
+================================================================================
+AVERAGE OF RATING  2.36367
+AVERAGE DROP OFF  0.694333
+TOTAL DURATION  02:33:30

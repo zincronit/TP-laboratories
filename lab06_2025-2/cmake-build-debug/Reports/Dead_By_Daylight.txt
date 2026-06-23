@@ -1,0 +1,18 @@
+CODE: LN112E45
+NAME: dead_by_daylight
+LINK: https://Laboratory06_2025_2/Reports/Dead_By_Daylight
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+20/08/2025      Castro_1021     3.533           0.882           00:05:54
+17/10/2025      OgamingLoL      4.171           0.485           02:17:14
+18/10/2025      ESL_CSGO        4.74            0.77            01:56:21
+21/09/2025      TheGrefg        2.097           0.998           02:02:59
+05/09/2025      Asmongold       1.18            0.136           00:28:22
+05/09/2025      loltyler1       3.166           0.09            02:07:18
+23/08/2025      LCS             1.408           0.222           02:00:14
+20/08/2025      loltyler1       4.52            0.521           01:34:28
+================================================================================
+AVERAGE OF RATING  3.10188
+AVERAGE DROP OFF  0.513
+TOTAL DURATION  12:32:50

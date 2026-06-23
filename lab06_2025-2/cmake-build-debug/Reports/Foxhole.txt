@@ -1,0 +1,15 @@
+CODE: NO156F14
+NAME: foxhole
+LINK: https://Laboratory06_2025_2/Reports/Foxhole
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+17/10/2025      Rubius          4.443           0.055           01:24:23
+18/10/2025      Rubius          1.035           0.606           00:10:05
+30/08/2025      LCS             3.62            0.749           01:38:56
+02/11/2025      Rubius          3.26            0.162           01:41:57
+17/10/2025      Fextralife      2.784           0.094           01:55:21
+================================================================================
+AVERAGE OF RATING  3.0284
+AVERAGE DROP OFF  0.3332
+TOTAL DURATION  06:50:42

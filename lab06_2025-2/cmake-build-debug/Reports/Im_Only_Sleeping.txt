@@ -1,0 +1,13 @@
+CODE: AE182A15
+NAME: im_only_sleeping
+LINK: https://Laboratory06_2025_2/Reports/Im_Only_Sleeping
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+21/08/2025      Castro_1021     4.527           0.264           00:42:29
+04/10/2025      OgamingLoL      3.771           0.876           01:37:55
+17/10/2025      Pestily         3.576           0.978           00:14:33
+================================================================================
+AVERAGE OF RATING  3.958
+AVERAGE DROP OFF  0.706
+TOTAL DURATION  02:34:57

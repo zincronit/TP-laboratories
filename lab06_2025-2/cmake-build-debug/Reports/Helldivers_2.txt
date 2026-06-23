@@ -1,0 +1,13 @@
+CODE: VX165C97
+NAME: helldivers_2
+LINK: https://Laboratory06_2025_2/Reports/Helldivers_2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+11/09/2025      summit1g        3.328           0.271           02:06:35
+29/09/2025      LIRIK           2.076           0.647           00:58:36
+16/09/2025      TFBlade         3.035           0.96            00:09:04
+================================================================================
+AVERAGE OF RATING  2.813
+AVERAGE DROP OFF  0.626
+TOTAL DURATION  03:14:15

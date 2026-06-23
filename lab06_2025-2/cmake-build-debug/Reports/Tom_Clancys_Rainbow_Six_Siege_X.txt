@@ -1,0 +1,12 @@
+CODE: ZU177L96
+NAME: tom_clancys_rainbow_six_siege_x
+LINK: https://Laboratory06_2025_2/Reports/Tom_Clancys_Rainbow_Six_Siege_X
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+28/08/2025      Myth            4.566           0.427           00:50:33
+19/09/2025      TheRealKnossi   1.397           0.931           01:31:00
+================================================================================
+AVERAGE OF RATING  2.9815
+AVERAGE DROP OFF  0.679
+TOTAL DURATION  02:21:33

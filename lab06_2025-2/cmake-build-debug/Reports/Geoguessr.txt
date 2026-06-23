@@ -1,0 +1,12 @@
+CODE: AN114F11
+NAME: geoguessr
+LINK: https://Laboratory06_2025_2/Reports/Geoguessr
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+01/10/2025      Evelone192      3.807           0.832           00:08:30
+10/09/2025      Lord_Kebun      2.55            0.318           00:37:26
+================================================================================
+AVERAGE OF RATING  3.1785
+AVERAGE DROP OFF  0.575
+TOTAL DURATION  00:45:56

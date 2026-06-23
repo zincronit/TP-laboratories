@@ -1,0 +1,12 @@
+CODE: NU114V45
+NAME: djs
+LINK: https://Laboratory06_2025_2/Reports/Djs
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/09/2025      GamesDoneQuick  4.972           0.078           02:21:16
+08/10/2025      OgamingLoL      2.476           0.32            00:20:18
+================================================================================
+AVERAGE OF RATING  3.724
+AVERAGE DROP OFF  0.199
+TOTAL DURATION  02:41:34

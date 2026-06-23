@@ -1,0 +1,11 @@
+CODE: DA182Q73
+NAME: arena_breakout_infinite
+LINK: https://Laboratory06_2025_2/Reports/Arena_Breakout_Infinite
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+10/10/2025      TheRealKnossi   4.081           0.896           00:47:40
+================================================================================
+AVERAGE OF RATING  4.081
+AVERAGE DROP OFF  0.896
+TOTAL DURATION  00:47:40

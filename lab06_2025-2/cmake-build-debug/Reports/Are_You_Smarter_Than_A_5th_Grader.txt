@@ -1,0 +1,13 @@
+CODE: OR112F58
+NAME: are_you_smarter_than_a_5th_grader
+LINK: https://Laboratory06_2025_2/Reports/Are_You_Smarter_Than_A_5th_Grader
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+21/09/2025      MontanaBlack88  3.811           0.514           01:03:22
+24/10/2025      DrDisrespect    4.723           0.646           01:41:40
+28/09/2025      DrDisrespect    4.39            0.117           00:31:24
+================================================================================
+AVERAGE OF RATING  4.308
+AVERAGE DROP OFF  0.425667
+TOTAL DURATION  03:16:26

@@ -1,0 +1,15 @@
+CODE: RD128Y57
+NAME: world_of_tanks
+LINK: https://Laboratory06_2025_2/Reports/World_Of_Tanks
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+31/08/2025      MontanaBlack88  4.761           0.569           00:21:01
+20/08/2025      LEC             1.337           0.974           01:13:35
+23/10/2025      Tfue            4.173           0.961           00:27:56
+19/09/2025      LIRIK           4.957           0.682           01:50:27
+24/10/2025      MOONMOON        3.225           0.842           02:08:27
+================================================================================
+AVERAGE OF RATING  3.6906
+AVERAGE DROP OFF  0.8056
+TOTAL DURATION  06:01:26

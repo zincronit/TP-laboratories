@@ -1,0 +1,16 @@
+CODE: IC184W19
+NAME: pokémon_community_game
+LINK: https://Laboratory06_2025_2/Reports/Pokémon_Community_Game
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+11/10/2025      Tfue            1.789           0.696           01:04:31
+17/10/2025      YoDa            1.317           0.813           00:12:23
+31/08/2025      Auronplay       3.548           0.126           00:39:01
+16/10/2025      YoDa            1.498           0.748           01:26:59
+16/09/2025      MontanaBlack88  4.969           0.574           01:01:12
+19/10/2025      MontanaBlack88  3.635           0.097           01:19:03
+================================================================================
+AVERAGE OF RATING  2.79267
+AVERAGE DROP OFF  0.509
+TOTAL DURATION  05:43:09

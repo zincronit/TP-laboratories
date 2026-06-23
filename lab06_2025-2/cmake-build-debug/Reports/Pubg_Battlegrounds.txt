@@ -1,0 +1,16 @@
+CODE: AK118L96
+NAME: pubg_battlegrounds
+LINK: https://Laboratory06_2025_2/Reports/Pubg_Battlegrounds
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+21/10/2025      TheRealKnossi   2.208           0.538           02:20:33
+03/09/2025      TFBlade         1.768           0.728           02:08:10
+28/09/2025      Alanzoka        3.146           0.094           02:05:00
+21/09/2025      DrDisrespect    2.964           0.908           01:33:45
+10/10/2025      hanryang1125    4.574           0.611           02:22:16
+01/10/2025      CohhCarnage     4.035           0.004           01:50:53
+================================================================================
+AVERAGE OF RATING  3.11583
+AVERAGE DROP OFF  0.4805
+TOTAL DURATION  12:20:37

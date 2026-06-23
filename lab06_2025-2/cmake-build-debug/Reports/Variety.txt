@@ -1,0 +1,12 @@
+CODE: BY199O22
+NAME: variety
+LINK: https://Laboratory06_2025_2/Reports/Variety
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+13/10/2025      Evelone192      1.884           0.563           01:36:29
+14/09/2025      Alanzoka        3.237           0.669           00:18:35
+================================================================================
+AVERAGE OF RATING  2.5605
+AVERAGE DROP OFF  0.616
+TOTAL DURATION  01:55:04

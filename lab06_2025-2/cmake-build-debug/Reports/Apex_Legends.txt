@@ -1,0 +1,11 @@
+CODE: KI146T56
+NAME: apex_legends
+LINK: https://Laboratory06_2025_2/Reports/Apex_Legends
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+07/10/2025      Asmongold       3.712           0.865           00:38:36
+================================================================================
+AVERAGE OF RATING  3.712
+AVERAGE DROP OFF  0.865
+TOTAL DURATION  00:38:36

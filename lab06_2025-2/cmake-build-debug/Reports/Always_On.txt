@@ -1,0 +1,15 @@
+CODE: BK137V33
+NAME: always_on
+LINK: https://Laboratory06_2025_2/Reports/Always_On
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+12/10/2025      NICKMERCS       3.494           0.199           00:13:49
+01/09/2025      HasanAbi        3.435           0.686           00:58:54
+06/09/2025      handongsuk      1.187           0.721           00:56:01
+29/10/2025      TFBlade         2.215           0.125           00:20:01
+08/09/2025      Fextralife      4.781           0.867           02:05:51
+================================================================================
+AVERAGE OF RATING  3.0224
+AVERAGE DROP OFF  0.5196
+TOTAL DURATION  04:34:36

@@ -1,0 +1,15 @@
+CODE: LH114O61
+NAME: valorant
+LINK: https://Laboratory06_2025_2/Reports/Valorant
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+24/10/2025      DrLupo          3.656           0.349           00:33:24
+03/09/2025      YoDa            1.14            0.996           00:45:22
+23/09/2025      Auronplay       1.125           0.387           02:05:25
+03/09/2025      DrLupo          1.444           0.882           02:19:32
+03/10/2025      LCK             3.119           0.533           00:12:49
+================================================================================
+AVERAGE OF RATING  2.0968
+AVERAGE DROP OFF  0.6294
+TOTAL DURATION  05:56:32

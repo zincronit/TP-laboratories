@@ -1,0 +1,16 @@
+CODE: DQ172M16
+NAME: clash_royale
+LINK: https://Laboratory06_2025_2/Reports/Clash_Royale
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+24/09/2025      hanryang1125    3.234           0.897           01:52:28
+05/10/2025      Anomaly         2.315           0.565           00:58:45
+20/09/2025      xQcOW           4.718           0.564           01:54:20
+13/09/2025      TFBlade         4.142           0.498           02:00:14
+03/09/2025      LIRIK           4.561           0.744           00:01:35
+14/09/2025      ESL_CSGO        2.959           0.506           01:09:24
+================================================================================
+AVERAGE OF RATING  3.65483
+AVERAGE DROP OFF  0.629
+TOTAL DURATION  07:56:46

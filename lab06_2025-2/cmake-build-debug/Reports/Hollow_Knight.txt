@@ -1,0 +1,12 @@
+CODE: LJ159A55
+NAME: hollow_knight
+LINK: https://Laboratory06_2025_2/Reports/Hollow_Knight
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+29/09/2025      handongsuk      1.745           0.145           01:53:11
+05/10/2025      Anomaly         4.769           0.094           02:04:25
+================================================================================
+AVERAGE OF RATING  3.257
+AVERAGE DROP OFF  0.1195
+TOTAL DURATION  03:57:36

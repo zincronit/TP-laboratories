@@ -1,0 +1,11 @@
+CODE: VB136P13
+NAME: age_of_empires_ii
+LINK: https://Laboratory06_2025_2/Reports/Age_Of_Empires_Ii
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+17/10/2025      LCK_Korea       2.828           0.966           01:19:55
+================================================================================
+AVERAGE OF RATING  2.828
+AVERAGE DROP OFF  0.966
+TOTAL DURATION  01:19:55

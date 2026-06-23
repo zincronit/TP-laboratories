@@ -1,0 +1,14 @@
+CODE: NN179A87
+NAME: software_and_game_development
+LINK: https://Laboratory06_2025_2/Reports/Software_And_Game_Development
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+31/08/2025      riotgames       1.477           0.419           01:47:25
+31/10/2025      MontanaBlack88  1.162           0.381           01:39:22
+10/10/2025      Auronplay       4.015           0.427           00:48:58
+24/10/2025      Rubius          4.607           0.51            00:03:53
+================================================================================
+AVERAGE OF RATING  2.81525
+AVERAGE DROP OFF  0.43425
+TOTAL DURATION  04:19:38

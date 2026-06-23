@@ -1,0 +1,13 @@
+CODE: DN124W94
+NAME: league_of_legends
+LINK: https://Laboratory06_2025_2/Reports/League_Of_Legends
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+19/10/2025      Rubius          3.976           0.94            00:44:47
+29/09/2025      YoDa            3.778           0.568           02:18:49
+04/10/2025      Gaules          2.134           0.12            02:23:25
+================================================================================
+AVERAGE OF RATING  3.296
+AVERAGE DROP OFF  0.542667
+TOTAL DURATION  05:27:01

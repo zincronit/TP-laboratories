@@ -1,0 +1,14 @@
+CODE: DB186L52
+NAME: world_of_warcraft
+LINK: https://Laboratory06_2025_2/Reports/World_Of_Warcraft
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+30/09/2025      Gotaga          2.861           0.659           00:50:50
+20/09/2025      Pestily         2.426           0.319           01:19:47
+01/11/2025      LCK             2.483           0.987           00:47:23
+19/09/2025      YoDa            1.14            0.254           00:39:19
+================================================================================
+AVERAGE OF RATING  2.2275
+AVERAGE DROP OFF  0.55475
+TOTAL DURATION  03:37:19

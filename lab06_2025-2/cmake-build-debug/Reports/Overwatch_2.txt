@@ -1,0 +1,12 @@
+CODE: QT146C58
+NAME: overwatch_2
+LINK: https://Laboratory06_2025_2/Reports/Overwatch_2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+28/08/2025      Yassuo          3.107           0.448           01:20:38
+16/09/2025      LCK_Korea       4.478           0.613           00:53:08
+================================================================================
+AVERAGE OF RATING  3.7925
+AVERAGE DROP OFF  0.5305
+TOTAL DURATION  02:13:46

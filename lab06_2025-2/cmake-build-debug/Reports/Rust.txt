@@ -1,0 +1,17 @@
+CODE: EW188U26
+NAME: rust
+LINK: https://Laboratory06_2025_2/Reports/Rust
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/11/2025      Gaules          3.485           0.341           01:49:26
+16/09/2025      Fresh           2.078           0.57            00:02:44
+15/09/2025      Rubius          1.526           0.617           02:13:47
+07/10/2025      DrDisrespect    3.098           0.477           02:03:59
+23/09/2025      DrDisrespect    2.009           0.112           00:06:03
+20/10/2025      Gaules          4.695           0.875           02:03:42
+03/11/2025      TimTheTatman    1.476           0.244           01:30:35
+================================================================================
+AVERAGE OF RATING  2.62386
+AVERAGE DROP OFF  0.462286
+TOTAL DURATION  09:50:16

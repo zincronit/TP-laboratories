@@ -1,0 +1,14 @@
+CODE: WC173Z82
+NAME: metal_gear_solid_delta_snake_eater
+LINK: https://Laboratory06_2025_2/Reports/Metal_Gear_Solid_Delta_Snake_Eater
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+27/09/2025      Solary          2.402           0.37            01:27:50
+24/10/2025      ESL_CSGO        3.593           0.558           01:44:07
+29/10/2025      Pestily         3.843           0.231           00:52:42
+12/09/2025      YoDa            1.536           0.784           00:00:43
+================================================================================
+AVERAGE OF RATING  2.8435
+AVERAGE DROP OFF  0.48575
+TOTAL DURATION  04:05:22

@@ -1,0 +1,15 @@
+CODE: QU119C56
+NAME: counter-strike
+LINK: https://Laboratory06_2025_2/Reports/Counter-strike
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/11/2025      TFBlade         1.417           0.138           00:50:07
+22/09/2025      DrLupo          3.686           0.777           00:41:37
+30/10/2025      Auronplay       2.599           0.907           00:14:50
+15/10/2025      LCK_Korea       1.606           0.494           01:35:20
+04/10/2025      Fresh           3.361           0.992           00:30:58
+================================================================================
+AVERAGE OF RATING  2.5338
+AVERAGE DROP OFF  0.6616
+TOTAL DURATION  03:52:52

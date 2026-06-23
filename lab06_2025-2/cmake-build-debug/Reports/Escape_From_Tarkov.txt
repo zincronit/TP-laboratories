@@ -1,0 +1,12 @@
+CODE: QR146D97
+NAME: escape_from_tarkov
+LINK: https://Laboratory06_2025_2/Reports/Escape_From_Tarkov
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+02/10/2025      summit1g        4.991           0.292           00:21:53
+16/10/2025      dota2mc_ru      4.967           0.446           00:20:10
+================================================================================
+AVERAGE OF RATING  4.979
+AVERAGE DROP OFF  0.369
+TOTAL DURATION  00:42:03

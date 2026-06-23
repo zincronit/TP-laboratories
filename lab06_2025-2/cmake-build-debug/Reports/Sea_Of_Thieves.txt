@@ -1,0 +1,12 @@
+CODE: AG139R21
+NAME: sea_of_thieves
+LINK: https://Laboratory06_2025_2/Reports/Sea_Of_Thieves
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+20/10/2025      TFBlade         1.067           0.868           01:31:00
+20/09/2025      summit1g        2.403           0.192           00:29:31
+================================================================================
+AVERAGE OF RATING  1.735
+AVERAGE DROP OFF  0.53
+TOTAL DURATION  02:00:31

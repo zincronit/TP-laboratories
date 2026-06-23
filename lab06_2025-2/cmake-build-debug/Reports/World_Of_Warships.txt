@@ -1,0 +1,14 @@
+CODE: VO168I62
+NAME: world_of_warships
+LINK: https://Laboratory06_2025_2/Reports/World_Of_Warships
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/09/2025      Sardoche        2.572           0.7             01:45:50
+14/10/2025      Yassuo          3.708           0.834           02:06:17
+28/08/2025      Castro_1021     2.1             0.301           02:03:16
+19/08/2025      GamesDoneQuick  2.633           0.912           00:39:01
+================================================================================
+AVERAGE OF RATING  2.75325
+AVERAGE DROP OFF  0.68675
+TOTAL DURATION  06:34:24

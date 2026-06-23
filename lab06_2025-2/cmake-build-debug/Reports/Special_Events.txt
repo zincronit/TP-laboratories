@@ -1,0 +1,19 @@
+CODE: MI118Y35
+NAME: special_events
+LINK: https://Laboratory06_2025_2/Reports/Special_Events
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+22/09/2025      Rubius          1.241           0.254           00:50:15
+27/10/2025      Pestily         4.905           0.612           01:41:23
+07/10/2025      xQcOW           1.34            0.633           02:17:31
+31/08/2025      Solary          3.068           0.329           02:00:06
+24/08/2025      ibai            2.807           0.422           02:09:45
+12/09/2025      Sardoche        2.926           0.668           00:15:59
+18/08/2025      TimTheTatman    3.843           0.426           00:09:48
+25/09/2025      NICKMERCS       2.901           0.072           00:47:31
+18/10/2025      ESL_CSGO        4.811           0.71            00:50:07
+================================================================================
+AVERAGE OF RATING  3.09356
+AVERAGE DROP OFF  0.458444
+TOTAL DURATION  11:02:25

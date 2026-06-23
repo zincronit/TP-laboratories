@@ -1,0 +1,14 @@
+CODE: KF142D45
+NAME: guild_wars_2
+LINK: https://Laboratory06_2025_2/Reports/Guild_Wars_2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+09/10/2025      YoDa            3.656           0.12            00:17:00
+27/10/2025      NICKMERCS       4.207           0.525           00:58:02
+20/08/2025      BeyondTheSummit 4.768           0.276           00:30:23
+16/10/2025      LIRIK           1.676           0.369           00:07:47
+================================================================================
+AVERAGE OF RATING  3.57675
+AVERAGE DROP OFF  0.3225
+TOTAL DURATION  01:53:12

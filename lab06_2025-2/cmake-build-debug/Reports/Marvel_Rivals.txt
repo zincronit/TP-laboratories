@@ -1,0 +1,16 @@
+CODE: WT179Q13
+NAME: marvel_rivals
+LINK: https://Laboratory06_2025_2/Reports/Marvel_Rivals
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/09/2025      Anomaly         1.887           0.775           01:26:41
+29/09/2025      Solary          4.888           0.048           02:22:42
+02/09/2025      LIRIK           4.047           0.954           01:42:06
+21/08/2025      Auronplay       4.448           0.466           01:05:48
+12/09/2025      Solary          2.448           0.496           01:25:58
+22/09/2025      Myth            4.341           0.656           02:13:03
+================================================================================
+AVERAGE OF RATING  3.6765
+AVERAGE DROP OFF  0.565833
+TOTAL DURATION  10:16:18

@@ -1,0 +1,14 @@
+CODE: RL171J41
+NAME: delta_force
+LINK: https://Laboratory06_2025_2/Reports/Delta_Force
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+06/09/2025      LCS             2.084           0.828           00:27:13
+19/10/2025      CohhCarnage     1.602           0.393           00:20:01
+20/10/2025      MOONMOON        2.563           0.853           00:51:50
+02/10/2025      Evelone192      4.243           0.956           01:36:03
+================================================================================
+AVERAGE OF RATING  2.623
+AVERAGE DROP OFF  0.7575
+TOTAL DURATION  03:15:07

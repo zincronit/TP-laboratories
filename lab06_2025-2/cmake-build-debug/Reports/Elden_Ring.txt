@@ -1,0 +1,16 @@
+CODE: HV185O43
+NAME: elden_ring
+LINK: https://Laboratory06_2025_2/Reports/Elden_Ring
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/11/2025      MontanaBlack88  4.94            0.92            00:48:06
+08/09/2025      HasanAbi        3.284           0.553           00:11:05
+03/09/2025      Alanzoka        3.534           0.079           01:00:29
+03/10/2025      riotgames       2.457           0.589           02:11:11
+20/09/2025      GamesDoneQuick  2.369           0.218           01:52:45
+02/10/2025      nl_Kripp        2.115           0.287           01:05:05
+================================================================================
+AVERAGE OF RATING  3.1165
+AVERAGE DROP OFF  0.441
+TOTAL DURATION  07:08:41

@@ -1,0 +1,15 @@
+CODE: KB123B15
+NAME: destiny_2
+LINK: https://Laboratory06_2025_2/Reports/Destiny_2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+24/08/2025      Gotaga          2.07            0.935           02:05:34
+20/09/2025      Gaules          1.451           0.345           01:39:39
+18/08/2025      nl_Kripp        4.327           0.013           00:26:38
+12/10/2025      handongsuk      2.574           0.164           00:32:41
+31/08/2025      TFBlade         4.106           0.69            01:08:07
+================================================================================
+AVERAGE OF RATING  2.9056
+AVERAGE DROP OFF  0.4294
+TOTAL DURATION  05:52:39

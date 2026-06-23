@@ -1,0 +1,14 @@
+CODE: OA138Q42
+NAME: rimworld
+LINK: https://Laboratory06_2025_2/Reports/Rimworld
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+07/10/2025      Gaules          3.026           0.435           01:28:42
+02/11/2025      CohhCarnage     1.655           0.843           01:43:32
+09/09/2025      Castro_1021     2.272           0.23            01:21:22
+21/09/2025      Auronplay       1.652           0.523           02:05:17
+================================================================================
+AVERAGE OF RATING  2.15125
+AVERAGE DROP OFF  0.50775
+TOTAL DURATION  06:38:53

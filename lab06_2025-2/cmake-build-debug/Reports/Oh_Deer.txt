@@ -1,0 +1,15 @@
+CODE: ZT132U54
+NAME: oh_deer
+LINK: https://Laboratory06_2025_2/Reports/Oh_Deer
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+31/08/2025      Sardoche        4.41            0.715           01:41:48
+15/09/2025      TheGrefg        3.853           0.258           00:34:42
+02/11/2025      Pestily         4.037           0.971           00:16:42
+21/08/2025      handongsuk      3.101           0.414           01:06:32
+29/09/2025      Pestily         2.322           0.16            01:00:29
+================================================================================
+AVERAGE OF RATING  3.5446
+AVERAGE DROP OFF  0.5036
+TOTAL DURATION  04:40:13

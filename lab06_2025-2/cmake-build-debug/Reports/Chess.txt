@@ -1,0 +1,12 @@
+CODE: TP152U58
+NAME: chess
+LINK: https://Laboratory06_2025_2/Reports/Chess
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+19/10/2025      xQcOW           2.716           0.186           00:41:37
+28/10/2025      riotgames       2.236           0.48            01:04:31
+================================================================================
+AVERAGE OF RATING  2.476
+AVERAGE DROP OFF  0.333
+TOTAL DURATION  01:46:08

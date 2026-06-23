@@ -1,0 +1,12 @@
+CODE: VS157U81
+NAME: abiotic_factor
+LINK: https://Laboratory06_2025_2/Reports/Abiotic_Factor
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+15/09/2025      TheRealKnossi   3.572           0.179           00:11:05
+02/09/2025      summit1g        4.036           0.847           00:38:53
+================================================================================
+AVERAGE OF RATING  3.804
+AVERAGE DROP OFF  0.513
+TOTAL DURATION  00:49:58

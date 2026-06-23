@@ -1,0 +1,14 @@
+CODE: FE115G27
+NAME: shadowverse_worlds_beyond
+LINK: https://Laboratory06_2025_2/Reports/Shadowverse_Worlds_Beyond
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+22/10/2025      Solary          4.768           0.339           02:14:47
+14/09/2025      dota2mc_ru      3.825           0.077           00:51:24
+28/10/2025      Rubius          3.897           0.466           00:01:18
+02/10/2025      Myth            1.858           0.846           01:08:24
+================================================================================
+AVERAGE OF RATING  3.587
+AVERAGE DROP OFF  0.432
+TOTAL DURATION  04:15:53

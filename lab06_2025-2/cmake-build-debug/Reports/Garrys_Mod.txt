@@ -1,0 +1,14 @@
+CODE: DU188A83
+NAME: garrys_mod
+LINK: https://Laboratory06_2025_2/Reports/Garrys_Mod
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+31/08/2025      Castro_1021     1.589           0.445           01:51:10
+12/09/2025      Solary          4.032           0.072           01:30:17
+22/10/2025      DrLupo          2.072           0.909           01:12:43
+30/09/2025      TimTheTatman    4.114           0.438           01:18:37
+================================================================================
+AVERAGE OF RATING  2.95175
+AVERAGE DROP OFF  0.466
+TOTAL DURATION  05:52:47

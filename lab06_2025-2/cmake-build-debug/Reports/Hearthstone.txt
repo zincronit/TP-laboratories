@@ -1,0 +1,12 @@
+CODE: RN127Z69
+NAME: hearthstone
+LINK: https://Laboratory06_2025_2/Reports/Hearthstone
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+30/10/2025      GamesDoneQuick  3.763           0.605           02:18:32
+04/09/2025      Auronplay       3.218           0.475           01:15:19
+================================================================================
+AVERAGE OF RATING  3.4905
+AVERAGE DROP OFF  0.54
+TOTAL DURATION  03:33:51

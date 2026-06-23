@@ -1,0 +1,15 @@
+CODE: LO141I68
+NAME: call_of_duty_black_ops_6
+LINK: https://Laboratory06_2025_2/Reports/Call_Of_Duty_Black_Ops_6
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/09/2025      Sardoche        4.26            0.999           00:49:49
+31/08/2025      summit1g        1.045           0.387           00:27:13
+13/09/2025      Dota2RuHub      3.249           0.421           00:27:04
+31/08/2025      Fresh           4.912           0.671           02:09:53
+25/08/2025      Castro_1021     3.376           0.487           02:15:22
+================================================================================
+AVERAGE OF RATING  3.3684
+AVERAGE DROP OFF  0.593
+TOTAL DURATION  06:09:21

@@ -1,0 +1,15 @@
+CODE: PY187C33
+NAME: ea_sports_fc_25
+LINK: https://Laboratory06_2025_2/Reports/Ea_Sports_Fc_25
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+23/08/2025      Rubius          3.571           0.179           00:11:23
+08/09/2025      LEC             1.973           0.316           00:45:56
+03/09/2025      LCK_Korea       4.965           0.153           00:44:38
+30/08/2025      LCK             1.282           0.213           01:55:47
+05/10/2025      HasanAbi        3.034           0.033           01:58:57
+================================================================================
+AVERAGE OF RATING  2.965
+AVERAGE DROP OFF  0.1788
+TOTAL DURATION  05:36:41

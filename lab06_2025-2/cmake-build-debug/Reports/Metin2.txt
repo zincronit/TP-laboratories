@@ -1,0 +1,17 @@
+CODE: KS179K68
+NAME: metin2
+LINK: https://Laboratory06_2025_2/Reports/Metin2
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+22/10/2025      hanryang1125    3.703           0.976           00:25:47
+23/09/2025      LCK_Korea       4.657           0.27            00:53:43
+20/10/2025      Fextralife      2.286           0.526           00:05:28
+22/10/2025      Dota2RuHub      4.527           0.861           02:19:41
+29/10/2025      nl_Kripp        3.183           0.014           00:59:54
+09/09/2025      summit1g        1.776           0.55            00:17:43
+12/10/2025      Pestily         1.932           0.498           01:17:54
+================================================================================
+AVERAGE OF RATING  3.152
+AVERAGE DROP OFF  0.527857
+TOTAL DURATION  06:20:10

@@ -1,0 +1,16 @@
+CODE: EB132T28
+NAME: call_of_duty
+LINK: https://Laboratory06_2025_2/Reports/Call_Of_Duty
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+12/09/2025      Tfue            1.918           0.386           02:06:52
+12/09/2025      BeyondTheSummit 1.855           0.905           01:27:42
+02/10/2025      Rubius          1.111           0.165           00:57:45
+02/11/2025      Auronplay       1.516           0.412           01:21:22
+27/10/2025      DrDisrespect    3.54            0.216           02:21:33
+31/10/2025      nl_Kripp        2.083           0.134           01:12:17
+================================================================================
+AVERAGE OF RATING  2.00383
+AVERAGE DROP OFF  0.369667
+TOTAL DURATION  09:27:31

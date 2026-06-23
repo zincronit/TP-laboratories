@@ -1,0 +1,16 @@
+CODE: OZ151I97
+NAME: haunted_room_205
+LINK: https://Laboratory06_2025_2/Reports/Haunted_Room_205
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+14/09/2025      handongsuk      4.299           0.174           00:37:26
+10/10/2025      MontanaBlack88  3.615           0.541           01:40:05
+18/08/2025      LCS             3.175           0.185           00:15:16
+20/09/2025      ESL_CSGO        4.413           0.347           00:24:20
+12/10/2025      MOONMOON        4.618           0.262           00:28:39
+20/10/2025      TFBlade         1.136           0.161           02:14:21
+================================================================================
+AVERAGE OF RATING  3.54267
+AVERAGE DROP OFF  0.278333
+TOTAL DURATION  05:40:07

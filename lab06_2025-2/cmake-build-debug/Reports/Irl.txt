@@ -1,0 +1,14 @@
+CODE: XG132J21
+NAME: irl
+LINK: https://Laboratory06_2025_2/Reports/Irl
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+17/09/2025      Myth            2.618           0.555           00:37:35
+25/08/2025      LIRIK           4.664           0.924           01:30:09
+25/08/2025      TheRealKnossi   1.333           0.71            00:33:50
+05/09/2025      LEC             2.632           0.811           00:53:43
+================================================================================
+AVERAGE OF RATING  2.81175
+AVERAGE DROP OFF  0.75
+TOTAL DURATION  03:35:17

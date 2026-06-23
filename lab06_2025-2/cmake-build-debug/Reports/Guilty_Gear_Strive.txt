@@ -1,0 +1,15 @@
+CODE: NA174D77
+NAME: guilty_gear_strive
+LINK: https://Laboratory06_2025_2/Reports/Guilty_Gear_Strive
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+03/10/2025      hanryang1125    4.775           0.202           02:18:32
+08/10/2025      handongsuk      1.142           0.066           02:21:50
+07/09/2025      Lord_Kebun      3.276           0.736           01:32:53
+19/09/2025      NICKMERCS       1.907           0.553           01:36:29
+11/10/2025      LCK             2.917           0.439           00:42:55
+================================================================================
+AVERAGE OF RATING  2.8034
+AVERAGE DROP OFF  0.3992
+TOTAL DURATION  08:32:39

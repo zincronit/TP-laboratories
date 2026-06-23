@@ -1,0 +1,14 @@
+CODE: II162W87
+NAME: crypto
+LINK: https://Laboratory06_2025_2/Reports/Crypto
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+12/09/2025      riotgames       4.418           0.245           01:55:21
+30/10/2025      nl_Kripp        1.584           0.357           01:08:50
+21/09/2025      ibai            3.125           0.575           00:09:56
+15/09/2025      Asmongold       4.123           0.222           02:17:14
+================================================================================
+AVERAGE OF RATING  3.3125
+AVERAGE DROP OFF  0.34975
+TOTAL DURATION  05:31:21

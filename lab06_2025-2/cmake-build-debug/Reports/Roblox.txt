@@ -1,0 +1,11 @@
+CODE: NZ127Y46
+NAME: roblox
+LINK: https://Laboratory06_2025_2/Reports/Roblox
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+06/09/2025      summit1g        2.811           0.622           01:02:47
+================================================================================
+AVERAGE OF RATING  2.811
+AVERAGE DROP OFF  0.622
+TOTAL DURATION  01:02:47

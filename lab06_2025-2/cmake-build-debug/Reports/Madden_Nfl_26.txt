@@ -1,0 +1,15 @@
+CODE: CG165W46
+NAME: madden_nfl_26
+LINK: https://Laboratory06_2025_2/Reports/Madden_Nfl_26
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+19/08/2025      LCS             2.643           0.67            01:48:52
+08/09/2025      Anomaly         2.722           0.049           01:12:43
+20/09/2025      TimTheTatman    1.795           0.57            01:29:51
+24/09/2025      ESL_CSGO        1.035           0.692           01:02:04
+06/09/2025      ESL_CSGO        1.614           0.296           00:48:14
+================================================================================
+AVERAGE OF RATING  1.9618
+AVERAGE DROP OFF  0.4554
+TOTAL DURATION  06:21:44

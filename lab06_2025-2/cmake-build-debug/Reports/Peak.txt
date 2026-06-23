@@ -1,0 +1,15 @@
+CODE: CY155Y58
+NAME: peak
+LINK: https://Laboratory06_2025_2/Reports/Peak
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+19/09/2025      Lord_Kebun      1.658           0.931           02:22:25
+24/10/2025      TheGrefg        4.134           0.762           01:16:36
+11/10/2025      Gaules          2.705           0.892           02:19:32
+22/10/2025      handongsuk      3.989           0.321           00:19:35
+26/08/2025      Sardoche        2.699           0.958           01:26:59
+================================================================================
+AVERAGE OF RATING  3.037
+AVERAGE DROP OFF  0.7728
+TOTAL DURATION  07:45:07

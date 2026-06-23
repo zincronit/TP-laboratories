@@ -1,0 +1,11 @@
+CODE: CV195R73
+NAME: vrchat
+LINK: https://Laboratory06_2025_2/Reports/Vrchat
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+30/10/2025      ibai            1.494           0.57            02:17:05
+================================================================================
+AVERAGE OF RATING  1.494
+AVERAGE DROP OFF  0.57
+TOTAL DURATION  02:17:05

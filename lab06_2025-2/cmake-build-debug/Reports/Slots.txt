@@ -1,0 +1,11 @@
+CODE: GW115W74
+NAME: slots
+LINK: https://Laboratory06_2025_2/Reports/Slots
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+31/08/2025      Fresh           1.148           0.231           00:36:00
+================================================================================
+AVERAGE OF RATING  1.148
+AVERAGE DROP OFF  0.231
+TOTAL DURATION  00:36:00

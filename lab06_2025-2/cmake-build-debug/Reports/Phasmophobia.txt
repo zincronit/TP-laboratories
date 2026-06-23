@@ -1,0 +1,16 @@
+CODE: MD184K15
+NAME: phasmophobia
+LINK: https://Laboratory06_2025_2/Reports/Phasmophobia
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+26/08/2025      Rubius          4.207           0.627           00:11:57
+14/09/2025      LIRIK           2.271           0.165           01:20:12
+22/08/2025      Tfue            1.401           0.757           00:55:09
+11/10/2025      Alanzoka        4.458           0.954           01:46:34
+06/09/2025      ibai            3.051           0.368           01:23:57
+17/09/2025      LCS             2.691           0.066           01:24:40
+================================================================================
+AVERAGE OF RATING  3.01317
+AVERAGE DROP OFF  0.4895
+TOTAL DURATION  07:02:29

@@ -1,0 +1,15 @@
+CODE: VG156H76
+NAME: albion_online
+LINK: https://Laboratory06_2025_2/Reports/Albion_Online
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+27/09/2025      Anomaly         2.065           0.92            00:11:23
+20/08/2025      LCK_Korea       1.584           0.831           01:14:44
+13/10/2025      LIRIK           2.821           0.765           00:32:59
+03/10/2025      Solary          3.16            0.672           00:28:22
+11/09/2025      Gotaga          3.508           0.753           01:01:38
+================================================================================
+AVERAGE OF RATING  2.6276
+AVERAGE DROP OFF  0.7882
+TOTAL DURATION  03:29:06

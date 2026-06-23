@@ -1,0 +1,14 @@
+CODE: VD125K99
+NAME: supermarket_simulator
+LINK: https://Laboratory06_2025_2/Reports/Supermarket_Simulator
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+05/09/2025      xQcOW           1.339           0.504           01:52:02
+17/09/2025      Evelone192      1.973           0.619           00:07:38
+20/09/2025      LIRIK           2.908           0.595           00:12:06
+29/10/2025      BeyondTheSummit 4.185           0.205           00:59:20
+================================================================================
+AVERAGE OF RATING  2.60125
+AVERAGE DROP OFF  0.48075
+TOTAL DURATION  03:11:06

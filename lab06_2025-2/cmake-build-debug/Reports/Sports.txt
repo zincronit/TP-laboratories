@@ -1,0 +1,13 @@
+CODE: PK187T86
+NAME: sports
+LINK: https://Laboratory06_2025_2/Reports/Sports
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+12/09/2025      TFBlade         4.011           0.987           00:12:58
+30/10/2025      Tfue            3.368           0.076           02:07:35
+22/09/2025      Rubius          4.499           0.278           01:15:01
+================================================================================
+AVERAGE OF RATING  3.95933
+AVERAGE DROP OFF  0.447
+TOTAL DURATION  03:35:34

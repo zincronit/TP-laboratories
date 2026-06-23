@@ -1,0 +1,13 @@
+CODE: RO195M41
+NAME: rocket_league
+LINK: https://Laboratory06_2025_2/Reports/Rocket_League
+REPRODUCTIONS: 
+================================================================================
+FECHA           STREAM CHANNEL  RATING          DROP OFF        STREAM DURATION 
+14/10/2025      ESL_CSGO        2.727           0.619           02:11:37
+19/08/2025      HasanAbi        2.295           0.899           01:55:47
+05/10/2025      YoDa            2.176           0.615           00:13:58
+================================================================================
+AVERAGE OF RATING  2.39933
+AVERAGE DROP OFF  0.711
+TOTAL DURATION  04:21:22
