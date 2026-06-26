@@ -1,0 +1,5 @@
+A  Cliente preferente
+B  Cliente importante
+C Cliente unico
+D Cliente VIP
+E Cliente estandar
