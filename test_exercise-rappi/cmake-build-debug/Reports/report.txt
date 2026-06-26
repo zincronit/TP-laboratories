@@ -1,0 +1,46 @@
+                                                                     REPORT RAPPI
+======================================================================================================================================================
+DRIVER: 01
+CODE                                 NAME                                 RATE                                 ROUTE CODE                           ROUTE NAME                           
+8888                                 CASTRO REYES PEDRO MANUEL            S/.36.90                              410                                  CALLAO                               
+======================================================================================================================================================
+DELIVERIES
+   DATE                                 CUSTOMER                             DELIVERY DELAY                       PAYMENT                              
+DRIVER: 02
+CODE                                 NAME                                 RATE                                 ROUTE CODE                           ROUTE NAME                           
+5311                                 FLORES CAMPOS JOSE LUIS              S/.38.75                              205                                  LIMA SUR                             
+======================================================================================================================================================
+DELIVERIES
+   DATE                                 CUSTOMER                             DELIVERY DELAY                       PAYMENT                              
+00)03/04/2023                           CLI-10-7712                          02:15:45                              S/.87.67
+01)02/04/2023                           CLI-99-2210                          01:45:40                              S/.68.24
+DRIVER: 03
+CODE                                 NAME                                 RATE                                 ROUTE CODE                           ROUTE NAME                           
+9001                                 HERRERA LOPEZ MARIA ELENA            S/.45.10                              410                                  CALLAO                               
+======================================================================================================================================================
+DELIVERIES
+   DATE                                 CUSTOMER                             DELIVERY DELAY                       PAYMENT                              
+DRIVER: 04
+CODE                                 NAME                                 RATE                                 ROUTE CODE                           ROUTE NAME                           
+7845                                 QUISPE ROJAS MARIO ALBERTO           S/.35.50                              301                                  LIMA NORTE                           
+======================================================================================================================================================
+DELIVERIES
+   DATE                                 CUSTOMER                             DELIVERY DELAY                       PAYMENT                              
+00)04/04/2023                           CLI-88-4444                          02:25:20                              S/.85.99
+01)02/04/2023                           CLI-12-9981                          01:30:30                              S/.53.55
+02)01/04/2023                           CLI-45-8912                          02:15:20                              S/.80.07
+DRIVER: 05
+CODE                                 NAME                                 RATE                                 ROUTE CODE                           ROUTE NAME                           
+7200                                 RAMOS DIAZ CARMEN ROSA               S/.41.20                              205                                  LIMA SUR                             
+======================================================================================================================================================
+DELIVERIES
+   DATE                                 CUSTOMER                             DELIVERY DELAY                       PAYMENT                              
+DRIVER: 06
+CODE                                 NAME                                 RATE                                 ROUTE CODE                           ROUTE NAME                           
+6123                                 TORRES VEGA ANA LUCIA                S/.42.80                              301                                  LIMA NORTE                           
+======================================================================================================================================================
+DELIVERIES
+   DATE                                 CUSTOMER                             DELIVERY DELAY                       PAYMENT                              
+00)04/04/2023                           CLI-22-9087                          02:10:00                              S/.92.73
+01)03/04/2023                           CLI-44-1001                          02:10:10                              S/.92.85
+02)01/04/2023                           CLI-77-3401                          01:55:45                              S/.82.57
