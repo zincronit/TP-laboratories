@@ -9,7 +9,7 @@
 
 struct Account
 {
-    int account_number;
+    int account_no;
     double initial_balance;
     double final_balance;
     int deposit_count;

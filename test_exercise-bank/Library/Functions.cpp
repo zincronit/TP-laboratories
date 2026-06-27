@@ -47,7 +47,7 @@ char* read_string(std::ifstream& fin, char delimiter)
     return string;
 }
 
-char* assign_string(char* buffer)
+char* assign_string(const char* buffer)
 {
     char* string = new char[std::strlen(buffer + 1)];
     std::strcpy(string, buffer);
@@ -137,7 +137,7 @@ void to_lower(char* string)
 void camel_case(char* string)
 {
     to_lower(string);
-    bool flag= true;
+    bool flag = true;
     for (int i = 0; i < std::strlen(string) + 1; i++)
     {
         if (flag)
@@ -149,15 +149,30 @@ void camel_case(char* string)
     }
 }
 
-char* create_name(char* name, char* p_surname , char* m_surname)
+char* create_name(char* name, char* p_surname, char* m_surname)
 {
     char buffer[TEXT_LENGTH];
-    char* fullname ;
+    char* fullname;
     camel_case(name);
     camel_case(p_surname);
     camel_case(m_surname);
+    std::strcat(buffer, p_surname);
+    std::strcat(buffer, "/");
+    std::strcpy(buffer, m_surname);
+    std::strcat(buffer, "/");
     std::strcpy(buffer, name);
-    //std::
+    fullname = new char[std::strlen(buffer) + 1];
+    std::strcpy(fullname, buffer);
+    return fullname;
+}
+
+int find_index_customer_type(CustomerType* t, int size, char letter)
+{
+    for (int i = 0; i < size; i++)
+    {
+        if (letter == t[i].type) return i;
+    }
+    return NOT_FOUND;
 }
 
 void read_data_customers_file(const char* file_path,
@@ -168,9 +183,9 @@ void read_data_customers_file(const char* file_path,
 {
     std::ifstream fin;
     open_input_file(fin, file_path);
+    c = new Customer[MAX_CUSTOMERS]{};
     char m_surname[TEXT_LENGTH], p_surname[TEXT_LENGTH], name[TEXT_LENGTH];
-    char full_name[TEXT_LENGTH];
-    int dni;
+    int dni, index;
     char x;
     while (true)
     {
@@ -179,8 +194,156 @@ void read_data_customers_file(const char* file_path,
         if (fin.eof()) break;
         read_static_string(fin, name, ',');
         read_static_string(fin, p_surname, ',');
-        read_static_string(fin, m_surname , ',');
+        read_static_string(fin, m_surname, ',');
         x = read_char(fin, true);
+        c[count].dni = dni;
+        c[count].name = create_name(name, p_surname, m_surname);
+        index = find_index_customer_type(t, size, x);
+        if (index != NOT_FOUND)
+        {
+            c[count].type.type = t[index].type;
+            c[count].type.description = assign_string(t[index].description);
+        }
+        else
+        {
+            std::cout << "Type " << x << "not found " << std::endl;
+        }
+        count++;
+    }
+    fin.close();
+}
+
+void print_title(std::ofstream& fout, const char* title)
+{
+    print_line(fout, LINE_WIDTH, '=');
+    fout << std::right << std::setw((LINE_WIDTH + std::strlen(title)) / 2) << title << std::endl;
+    print_line(fout, LINE_WIDTH, '=');
+}
+
+void print_first_static_part(std::ofstream& fout, Customer& c, int number)
+{
+    int width = LINE_WIDTH / COLUMNS;
+    print_text(fout, "      DNI", width);
+    print_text(fout, "NOMBRE", width);
+    print_text(fout, "TIPO DE CLIENTE", width);
+    print_text(fout, "CANT. CUENTAS", width);
+    fout << std::endl;
+    fout << std::setw(width) << c.dni;
+    print_text(fout, c.name, width);
+    fout << c.type.type << "  - ";
+    print_text(fout, c.type.description, width);
+    if (number == 1)
+    {
+        fout << '-' << std::endl;
+    }
+    else
+    {
+        fout << c.accounts_count << std::endl;
+    }
+}
+
+void print_second_static_part(std::ofstream& fout, Customer& c, int number)
+{
+    int width = LINE_WIDTH / COLUMNS2;
+    print_line(fout, LINE_WIDTH, '-');
+    print_text(fout, "   CUENTA", width);
+    print_text(fout, "SALDO INICIAL", width);
+    print_text(fout, "ESTADO", width);
+    print_text(fout, "CANT.DET", width);
+    print_text(fout, "CANT.RET", width);
+    print_text(fout, "CANT.TRAN", width);
+    print_text(fout, "SALDO FINAL", width);
+    if (number == 1)
+    {
+    }
+    else
+    {
+    }
+}
+
+void print_report(const char* file_path,
+                  Customer* c,
+                  int count,
+                  int report_type)
+{
+    std::ofstream fout;
+    open_output_file(fout, file_path);
+    print_title(fout, "LISTADO DE CLIENTES");
+    for (int i = 0; i < count; i++)
+    {
+        print_first_static_part(fout, c[i], report_type);
+        for (int j = 0; j < c[i].accounts_count; j++)
+        {
+            print_second_static_part(fout, c[i], report_type);
+        }
+    }
+
+    fout.close();
+}
+
+int find_index_customer(Customer* c, int count, int dni)
+{
+    int value;
+    for (int i = 0; i < count; i++)
+    {
+        if (c[i].dni == dni) return value;
+    }
+    return NOT_FOUND;
+}
+
+void read_data_accounts_file(const char* file_path,
+                             Customer* c,
+                             int count)
+{
+    std::ifstream fin;
+    open_input_file(fin, file_path);
+    int dni, index;
+    while (true)
+    {
+        // 30594557,56916928,5683.23
+        dni = read_int(fin, true);
+        if (fin.eof()) break;
+        index = find_index_customer(c, count, dni);
+        if (index != NOT_FOUND)
+        {
+            if (c[index].account == nullptr) c[index].account = new Account[MAX_ACCOUNTS];
+            Customer& customer = c[index];
+            Account& a = customer.account[customer.accounts_count];
+            a.account_no = read_int(fin, true);
+            a.initial_balance = read_double(fin, true);
+            a.status = assign_string((a.initial_balance >= 0) ? "HABILITADO" : "INHABILITADO");
+            customer.accounts_count++;
+        }
+        else
+        {
+            std::cout << "DNI " << dni << " not found" << std::endl;
+        }
+    }
+    fin.close();
+}
+
+void read_data_transactions_file(const char* file_path,
+                                 Customer* c,
+                                 int count)
+{
+    std::ifstream fin;
+    open_input_file(fin, file_path);
+    int account_no ;
+    while (true)
+    {
+        // 66466160,D,13596.64,R,12536.72,R,11174.08
+        account_no = read_int(fin, true);
+        if (fin.eof()) break;
+        while (true)
+        {
+            // te qeudaste aqui , falat hacer el reporte,
+            // tienes que leer los depositos o retiros y acumularlos en la fucion
+            // palteas
+            // escribe más rápido por favor 
+            read_char(fin, true);
+            if ( )
+        }
+
 
     }
     fin.close();
