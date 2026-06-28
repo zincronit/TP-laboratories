@@ -19,7 +19,34 @@ int main()
     Customer* customers;
     int customers_count = 0;
 
+    read_data_customers_file("Data/customers.csv",
+                             customers,
+                             customers_count,
+                             types,
+                             num_types);
 
+    print_report("Reports/initial_customers.txt",
+                 customers,
+                 customers_count,
+                 1);
+
+    read_data_accounts_file("Data/accounts.csv",
+                            customers,
+                            customers_count);
+
+    print_report("Reports/initial_customers_accounts.txt",
+                 customers,
+                 customers_count,
+                 2);
+
+    read_data_transactions_file("Data/transactions.csv",
+                                customers,
+                                customers_count);
+
+    print_report("Reports/report_customers_accounts.txt",
+                 customers,
+                 customers_count,
+                 3);
 
     return 0;
 }

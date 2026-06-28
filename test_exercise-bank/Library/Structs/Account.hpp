@@ -12,10 +12,11 @@ struct Account
     int account_no;
     double initial_balance;
     double final_balance;
+    int withdrawal_count;
     int deposit_count;
     char* status;
     Transaction* transactions;
-    int transaction_count;
+    int transactions_count;
 };
 
 #endif //TEST_EXERCISE_BANK_ACCOUNT_HPP
