@@ -128,7 +128,7 @@ void print_data_customers_type(const char* file_path,
 
 void to_lower(char* string)
 {
-    for (int i = 0; i < std::strlen(string + 1); i++)
+    for (int i = 0; string[i] != '\0'; i++)
     {
         if (string[i] >= 'A' && string[i] <= 'Z') string[i] += 32;
     }
@@ -156,11 +156,11 @@ char* create_name(char* name, char* p_surname, char* m_surname)
     camel_case(name);
     camel_case(p_surname);
     camel_case(m_surname);
-    std::strcat(buffer, p_surname);
+    std::strcpy(buffer, p_surname);
     std::strcat(buffer, "/");
-    std::strcpy(buffer, m_surname);
+    std::strcat(buffer, m_surname);
     std::strcat(buffer, "/");
-    std::strcpy(buffer, name);
+    std::strcat(buffer, name);
     fullname = new char[std::strlen(buffer) + 1];
     std::strcpy(fullname, buffer);
     return fullname;
@@ -223,15 +223,15 @@ void print_first_static_part(std::ofstream& fout, Customer& c, int number)
 {
     int width = LINE_WIDTH / COLUMNS;
     print_line(fout, LINE_WIDTH, '=');
-    print_text(fout, "      DNI", width);
+    print_text(fout, "     DNI", width);
     print_text(fout, "NOMBRE", width);
     print_text(fout, "TIPO DE CLIENTE", width);
     print_text(fout, "CANT. CUENTAS", width);
     fout << std::endl;
-    fout << std::setw(width) << c.dni;
-    print_text(fout, c.name, width);
+    fout << "   " << std::setw(width - 10) << c.dni;
+    print_text(fout, c.name, width + 5);
     fout << c.type.type << "  - ";
-    print_text(fout, c.type.description, width);
+    print_text(fout, c.type.description, width + 3);
     if (number == 1) fout << '-' << std::endl;
     else fout << c.accounts_count << std::endl;
 }
@@ -253,20 +253,11 @@ void print_second_static_part(std::ofstream& fout)
 void print_customer_info(std::ofstream& fout, Customer& c, int number, int j)
 {
     int width = LINE_WIDTH / COLUMNS2;
-    if (number == 1 or number == 2)
+    if (number == 2)
     {
-        if (number == 1)
-        {
-            print_text(fout, " -", width);
-            print_text(fout, "-", width);
-            print_text(fout, "-", width);
-        }
-        else
-        {
-            fout << std::setw(width) << c.account[j].account_no;
-            fout << std::setw(width) << c.account[j].initial_balance;
-            print_text(fout, c.account[j].status, width);
-        }
+        fout << "   " << std::setw(width) << c.account[j].account_no;
+        fout << std::setw(width - 3) << c.account[j].initial_balance;
+        print_text(fout, c.account[j].status, width + 3);
         print_text(fout, "-", width);
         print_text(fout, "-", width);
         print_text(fout, "-", width);
@@ -275,25 +266,24 @@ void print_customer_info(std::ofstream& fout, Customer& c, int number, int j)
     }
     else
     {
-        fout << std::setw(width) << c.account[j].account_no;
-        fout << std::setw(width) << c.account[j].initial_balance;
-        print_text(fout, c.account[j].status, width);
+        fout << "   " << std::setw(width) << c.account[j].account_no;
+        fout << std::setw(width - 3) << c.account[j].initial_balance;
+        print_text(fout, c.account[j].status, width + 3);
         fout << std::setw(width) << c.account[j].deposit_count;
         fout << std::setw(width) << c.account[j].withdrawal_count;
         fout << std::setw(width) << c.account[j].transactions_count;
-        fout << c.account[j].final_balance<< std::endl;
+        fout << c.account[j].final_balance << std::endl;
     }
-    fout << "Transacciones" << std::endl;
-    print_line(fout,LINE_WIDTH, '=');
+    fout << "   Transacciones" << std::endl;
+    print_line(fout,LINE_WIDTH, '-');
+    if (number == 2)
+    {
+        fout << "   NONE " << std::endl;
+    }
 }
 
-void print_transactions(std::ofstream& fout, Transaction& t,int number)
+void print_transactions(std::ofstream& fout, Transaction& t)
 {
-    if (number == 1 or number == 2)
-    {
-        fout<< "NONE " << std::endl;
-        return ;
-    }
     fout << std::right << std::setw(7) << t.transaction_type;
     fout << std::setw(10) << t.amount;
     fout << std::endl;
@@ -317,7 +307,7 @@ void print_report(const char* file_path,
             print_customer_info(fout, c[i], report_type, j);
             for (int k = 0; k < c[i].account[j].transactions_count; k++)
             {
-                print_transactions(fout, c[i].account[j].transactions[k], report_type);
+                print_transactions(fout, c[i].account[j].transactions[k]);
             }
         }
     }
@@ -360,7 +350,7 @@ void read_data_accounts_file(const char* file_path,
         else
         {
             std::cout << "DNI " << dni << " not found" << std::endl;
-            fin.ignore(100 ,'\n');
+            fin.ignore(100, '\n');
         }
     }
     fin.close();
@@ -429,4 +419,48 @@ void read_data_transactions_file(const char* file_path,
         }
     }
     fin.close();
+}
+
+void swap_struct_customer(Customer& c1, Customer& c2)
+{
+    Customer temp;
+    temp = c1;
+    c1 = c2;
+    c2 = temp;
+}
+
+void swap_struct_account(Account& c1, Account& c2)
+{
+    Account temp;
+    temp = c1;
+    c1 = c2;
+    c2 = temp;
+}
+
+void sort_accounts(Account* a , int count)
+{
+    for (int i = 0; i < count + 1; i++)
+    {
+        for (int j = 0; j < count; j++)
+        {
+            if (a[i].withdrawal_count < a[j].withdrawal_count or
+                (a[i].account_no = a[j].account_no and a[i].deposit_count > a[j].deposit_count))
+            {
+                swap_struct_account(a[i], a[j]);
+            }
+        }
+    }
+}
+
+void sort_customer(Customer* c, int count)
+{
+    for (int i = 0; i < count - 1; i++)
+    {
+        sort_accounts(c[i].account, c[i].accounts_count);
+        for (int j = i + 1; j < count; j++)
+        {
+            if (std::strcmp(c[i].name , c[j].name) > 0) swap_struct_customer(c[i], c[j]);
+        }
+    }
+
 }

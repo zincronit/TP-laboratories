@@ -1,239 +1,239 @@
 ======================================================================================================================================================
                                                                  LISTADO DE CLIENTES
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-30594557                             NicolaS                              E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   30594557                   Zuniga/Rivero/Nicolas                     E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-19996544                             Richard Henrry AlonsO                A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   19996544                   Prado/Laura/Richard Henrry Alonso         A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-62977274                             FernandO                             B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   62977274                   Figueroa/Chavez/Fernando                  B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-98498940                             Henrry MartiN                        C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   98498940                   Sueldo/Epiquen/Henrry Martin              C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-27918426                             AdriA                                D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   27918426                   Fernandez/Epiquen/Adria                   D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-60904231                             Alonso JesuS                         A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   60904231                   Falcon/Cuba/Alonso Jesus                  A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-86255110                             Victoria Marina BlancA               B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   86255110                   Quispe/Berrocal/Victoria Marina Blanca    B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-60697811                             Melvin EdgaR                         C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   60697811                   Zavaleta/Quio/Melvin Edgar                C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-73554554                             YvonnE                               D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   73554554                   Martinez/Aquino/Yvonne                    D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-23458175                             RauL                                 E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   23458175                   Ortiz/Durand/Raul                         E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-51968388                             Martha LourdeS                       D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   51968388                   Baca/Canales/Martha Lourdes               D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-85518155                             JavieR                               A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   85518155                   Miranda/Rodriguez/Javier                  A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-53177675                             WilmeR                               B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   53177675                   Saavedra/Gonzales/Wilmer                  B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-65220921                             Jenny IneS                           C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   65220921                   Aranda/Torrealba/Jenny Ines               C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-29199143                             EnriquE                              D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   29199143                   Diaz/Tang/Enrique                         D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-90982955                             JuliO                                E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   90982955                   Carbajal/Mendoza/Julio                    E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-40658489                             AmarU                                A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   40658489                   Toro/Wong/Amaru                           A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-62939184                             MadeleinE                            B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   62939184                   Figueroa/Medina/Madeleine                 B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-53030374                             Ronald JohnnY                        C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   53030374                   Gavidia/Mendoza/Ronald Johnny             C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-26694117                             Surami Janet CinthiA                 D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   26694117                   Pasquel/Quio/Surami Janet Cinthia         D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-38711728                             EdriC                                A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   38711728                   Avila/Quiroga/Edric                       A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-23483171                             Javier JuliaN                        B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   23483171                   Loyola/Sinche/Javier Julian               B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-42022033                             Surami YvonnE                        C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   42022033                   Vilca/Contreras/Surami Yvonne             C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-11787818                             Rene FannY                           D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   11787818                   Iparraguirre/Miranda/Rene Fanny           D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-27713766                             MilagroS                             E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   27713766                   Prado/Espinoza/Milagros                   E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-70703590                             Blanca OfeliA                        A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   70703590                   Rodriguez/Moreno/Blanca Ofelia            A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-44096659                             Melvin JaiR                          B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   44096659                   Valverde/Maeireizo/Melvin Jair            B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-36677663                             MarinA                               C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   36677663                   Preciado/Cortez/Marina                    C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-95311273                             Henrry EmiliO                        D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   95311273                   Barrios/Sanchez/Henrry Emilio             D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-39311781                             Ofelia MariA                         B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   39311781                   Zambrano/Moscoso/Ofelia Maria             B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-51478522                             Alexander RicharD                    C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   51478522                   Vega/Saenz/Alexander Richard              C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-45960111                             Juvenal Francisco EmiliO             D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   45960111                   Pinto/Rojas/Juvenal Francisco Emilio      D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-22536952                             ShirleY                              A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   22536952                   Espinoza/Chang/Shirley                    A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-55428863                             RobertO                              B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   55428863                   Serrano/Chavarri/Roberto                  B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-33396838                             Tatiana DeliciA                      C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   33396838                   Pairazaman/Raffo/Tatiana Delicia          C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-45408871                             Felicita ValentinA                   D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   45408871                   Lozada/Arguedas/Felicita Valentina        D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-52153055                             Julian EdgarD                        E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   52153055                   Retamoso/Vargas/Julian Edgard             E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-63205090                             HelI                                 A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   63205090                   Minaya/Berrocal/Heli                      A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-27403359                             Walter Manuel EricK                  B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   27403359                   Paz/Zevallos/Walter Manuel Erick          B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-26806673                             MartiN                               B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   26806673                   Hijar/Lam/Martin                          B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-85995577                             Diana MaritzA                        C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   85995577                   Yoshinari/Arroyo/Diana Maritza            C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-35246094                             Carmen RenE                          D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   35246094                   Vera/Forzani/Carmen Rene                  D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-50165145                             Alex MartiN                          E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   50165145                   Vasquez/Paz/Alex Martin                   E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-53175253                             JaimE                                A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   53175253                   Tokeshi/Guevara/Jaime                     A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-82407155                             RonY                                 B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   82407155                   Yep/Valderrama/Rony                       B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-21097620                             Silvia VirginiA                      D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   21097620                   Sueldo/Baca/Silvia Virginia               D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-73541384                             BeatriZ                              E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   73541384                   Wong/Maeireizo/Beatriz                    E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-50661876                             GuillermO                            A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   50661876                   Delgado/Florian/Guillermo                 A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-44042432                             Eloisa VirginiA                      B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   44042432                   Suarez/Adams/Eloisa Virginia              B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-14164620                             RolandO                              C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   14164620                   Solis/Chung/Rolando                       C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-42690329                             Martha VictoriA                      D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   42690329                   Rivera/Bolanos/Martha Victoria            D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-87242660                             AlonsO                               A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   87242660                   Forzani/Caro/Alonso                       A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-25232302                             ChristiaN                            B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   25232302                   Florian/Cuba/Christian                    B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-78556336                             Magda ZkeniA                         C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   78556336                   Carbajal/Salas/Magda Zkenia               C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-19657702                             Edgar ManueL                         D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   19657702                   Ayala/Vizcardo/Edgar Manuel               D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-97032078                             RosariO                              E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   97032078                   Saenz/Guevara/Rosario                     E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-16475011                             Roberto JaimE                        A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   16475011                   Mejia/Zamora/Roberto Jaime                A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-57867547                             Walter RonY                          B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   57867547                   Ruiz/Zevallos/Walter Rony                 B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-21298513                             Raul GustavO                         C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   21298513                   Zevallos/Flores/Raul Gustavo              C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-89911748                             Annie OfeliA                         D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   89911748                   Asmad/Acuna/Annie Ofelia                  D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-51338163                             ErikA                                B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   51338163                   Estrada/Fuentes/Erika                     B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-16917705                             Alfonso RafaeL                       C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   16917705                   Leiva/Zevallos/Alfonso Rafael             C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-16408071                             RonalD                               D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   16408071                   Ortiz/Huayanay/Ronald                     D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-78416910                             Giovana RenE                         A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   78416910                   Zavaleta/Zamora/Giovana Rene              A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-37872801                             Edric RonalD                         B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   37872801                   Arca/Amezquita/Edric Ronald               B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-46625125                             Lourdes SilviA                       C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   46625125                   Maeireizo/Vasquez/Lourdes Silvia          C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-55802130                             Estefania MonicA                     D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   55802130                   Montero/Valderrama/Estefania Monica       D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-88171914                             Humberto HenrY                       E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   88171914                   Adams/Mori/Humberto Henry                 E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-73090622                             EloY                                 A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   73090622                   Arroyo/Zarate/Eloy                        A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-34353143                             Evert RobertO                        B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   34353143                   Amezquita/Epiquen/Evert Roberto           B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-68250509                             Cesar JosE                           B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   68250509                   Gamarra/Ortega/Cesar Jose                 B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-47314643                             Melvin HenrrY                        C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   47314643                   Laura/Wong/Melvin Henrry                  C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-65166790                             MagalI                               D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   65166790                   Medina/Merel/Magali                       D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-59924669                             Milagros Natalia IsabeL              E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   59924669                   Baca/Camacho/Milagros Natalia Isabel      E  - Cliente estandar                        -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-88818919                             Beatriz RosA                         A  - Cliente preferente                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   88818919                   Patino/Chung/Beatriz Rosa                 A  - Cliente preferente                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-35096515                             Guillermo ArturO                     B  - Cliente importante                   -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   35096515                   Zuniga/Yino/Guillermo Arturo              B  - Cliente importante                      -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-85631100                             ShirleY                              C  - Cliente unico                        -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   85631100                   Zimic/Paredes/Shirley                     C  - Cliente unico                           -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-70689731                             Zkenia EvelinG                       D  - Cliente VIP                          -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   70689731                   Zuniga/Vilcara/Zkenia Eveling             D  - Cliente VIP                             -
 ======================================================================================================================================================
-      DNI                            NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
-62803943                             Francisco EdgaR                      E  - Cliente estandar                     -
+     DNI                             NOMBRE                               TIPO DE CLIENTE                      CANT. CUENTAS                        
+   62803943                   Mejia/Haza/Francisco Edgar                E  - Cliente estandar                        -

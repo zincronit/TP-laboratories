@@ -48,5 +48,13 @@ int main()
                  customers_count,
                  3);
 
+    sort_customer(customers,
+                  customers_count);
+
+    print_report("Reports/sorted_customers_accounts.txt",
+                 customers,
+                 customers_count,
+                 3);
+
     return 0;
 }

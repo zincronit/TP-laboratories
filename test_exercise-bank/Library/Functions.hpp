@@ -35,4 +35,6 @@ void read_data_transactions_file(const char* file_path,
                                  Customer* c,
                                  int count);
 
+void sort_customer(Customer* c, int count);
+
 #endif //TEST_EXERCISE_BANK_FUNCTIONS_HPP
