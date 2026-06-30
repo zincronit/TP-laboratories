@@ -81,6 +81,7 @@ void initialize_list(struct List& list)
     list.tail = nullptr;
     list.size = 0;
 }
+
 //
 // Category assign_category(Category& c)
 // {
@@ -110,24 +111,44 @@ void insert_front(struct List& list, Category& c)
     }
 }
 
+// void insert_back(struct List& list, Category& c)
+// {
+//     Node* new_node;
+//     new_node = new Node;
+//     new_node->category = c;
+//     new_node->next = nullptr;
+//     if (list.head == nullptr and list.tail == nullptr)
+//     {
+//         new_node->next = nullptr;
+//         list.head = new_node;
+//         list.tail = new_node;
+//         list.size++;
+//     }
+//     else
+//     {
+//         list.tail = new_node;
+//     }
+// }
+
 void insert_back(struct List& list, Category& c)
 {
+    // without pointer Node* tail;
     Node* new_node;
     new_node = new Node;
-    new_node-> category = c;
+    new_node->category = c;
     new_node->next = nullptr;
-    if (list.head == nullptr and list.tail == nullptr)
+    if (list.head == nullptr)
     {
-        new_node->next = nullptr;
         list.head = new_node;
-        list.tail = new_node;
         list.size++;
-    }else
-    {
-        list.tail = new_node;
     }
+    Node* temp = list.head;
+    while (temp->next != nullptr)
+    {
+        temp = temp->next;
+    }
+    temp->next = new_node;
 }
-
 
 void read_data_categories_file(const char* filepath,
                                List& list)
@@ -144,8 +165,7 @@ void read_data_categories_file(const char* filepath,
         c.name = read_string(fin, ',');
         c.description = read_string(fin, '\n');
         c.code = assign_string(buffer);
-        insert_front(list , c);
+        insert_front(list, c);
     }
     fin.close();
 }
-
