@@ -14,4 +14,5 @@
 #define NOT_FOUND -1
 #define TEXT_LENGTH 100
 
+
 #endif //LAB09_2025_2_UTILS_HPP

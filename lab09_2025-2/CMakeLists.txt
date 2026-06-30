@@ -7,4 +7,7 @@ add_executable(lab09_2025_2
         main.cpp
         Library/Utils.hpp
         Library/Functions.hpp
-        Library/Functions.cpp)
+        Library/Functions.cpp
+        Library/Structs/Node.hpp
+        Library/Structs/Category.hpp
+        Library/Structs/List.hpp)
