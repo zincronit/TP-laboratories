@@ -3,7 +3,7 @@
 void open_output_file(std::ofstream& fout, const char* filepath)
 {
     fout.open(filepath);
-    if (fout.is_open())
+    if (not fout.is_open())
     {
         std::cout << "Error opening file " << filepath << std::endl;
         std::exit(1);
@@ -13,7 +13,7 @@ void open_output_file(std::ofstream& fout, const char* filepath)
 void open_input_file(std::ifstream& fin, const char* filepath)
 {
     fin.open(filepath);
-    if (fin.is_open())
+    if (not fin.is_open())
     {
         std::cout << "Error opening file " << filepath << std::endl;
         std::exit(1);
@@ -111,6 +111,7 @@ void insert_front(struct List& list, Category& c)
     }
 }
 
+//
 // void insert_back(struct List& list, Category& c)
 // {
 //     Node* new_node;
@@ -142,12 +143,35 @@ void insert_back(struct List& list, Category& c)
         list.head = new_node;
         list.size++;
     }
-    Node* temp = list.head;
-    while (temp->next != nullptr)
+    else
     {
-        temp = temp->next;
+        Node* temp = list.head;
+        while (temp->next != nullptr)
+        {
+            temp = temp->next;
+        }
+        temp->next = new_node;
     }
-    temp->next = new_node;
+}
+
+void insert_sorted(struct List& list, Category& c)
+{
+    Node* new_node;
+    new_node = new Node;
+    new_node->category = c;
+    new_node->next = nullptr;
+    Node* curr = list.head;
+    Node* prev = nullptr;
+    while (curr != nullptr)
+    {
+        if (std::strcmp(curr->category.name, c.name) > 0) break;
+        prev = curr;
+        curr = curr->next;
+    }
+    new_node->next = curr;
+    list.size++;
+    if (prev == nullptr) list.head = new_node;
+    else prev->next = new_node;
 }
 
 void read_data_categories_file(const char* filepath,
@@ -165,7 +189,104 @@ void read_data_categories_file(const char* filepath,
         c.name = read_string(fin, ',');
         c.description = read_string(fin, '\n');
         c.code = assign_string(buffer);
-        insert_front(list, c);
+        // insert_front(list, c);
+        // insert_back(list, c);
+        insert_sorted(list, c);
+    }
+    fin.close();
+}
+
+void print_data_categories(const char* filepath,
+                           List& list)
+{
+    std::ofstream fout;
+    open_output_file(fout, filepath);
+    fout << "CATEGORIES" << std::endl;
+    print_line(fout, 130, '=');
+    int width = 130 / 3;
+    print_text(fout, "CODE", width - 30);
+    print_text(fout, "NAME", width);
+    print_text(fout, "DESCRIPTION", width);
+    fout << std::endl;
+    print_line(fout, 130, '-');
+    Node* temp = list.head;
+
+    while (temp->next != nullptr)
+    {
+        Category& c = temp->category;
+        print_text(fout, c.code, width - 30);
+        print_text(fout, c.name, width);
+        print_text(fout, c.description, width);
+        fout << std::endl;
+        temp = temp->next;
+    }
+    fout.close();
+}
+
+void print_title(std::ofstream& fout, const char* title)
+{
+    fout << std::right << std::setw((LINE_WIDTH + std::strlen(title)) / 2) << title << std::endl;
+}
+
+void print_information(std::ofstream& fout, struct List& list, bool first_part)
+{
+    Node* curr = list.head;
+    while (curr != nullptr)
+    {
+        Category& c = curr->category;
+        fout << std::left;
+        fout << std::setw(15) << "Code: " << c.code << std::endl;
+        fout << std::setw(15) << "Name: " << c.name << std::endl;
+        fout << std::setw(15) << "Description: " << c.description << std::endl;
+        print_line(fout, LINE_WIDTH, '-');
+        if (first_part)
+        {
+            fout << "NONE" << std::endl;
+        }
+        print_line(fout, LINE_WIDTH, '=');
+        curr = curr->next;
+    }
+}
+
+void print_report(const char* filepath, struct List& list, bool first_part)
+{
+    std::ofstream fout;
+    open_output_file(fout, filepath);
+    print_title(fout, "REPORT OF CATEGORIES");
+    print_information(fout, list, first_part);
+
+    fout.close();
+}
+
+Node* find_pointer(struct List& list, Category& c)
+{
+    Node* curr = list.head;
+    while (curr != nullptr)
+    {
+        if (std::strcmp(curr->category.code,c.code) == 0) return curr;
+        curr = curr->next;
+    }
+    return nullptr;
+}
+
+void read_data_reproductions_file(const char* filepath,
+                                  struct List& list)
+{
+    std::ifstream fin;
+    open_input_file(fin, filepath);
+    Node* curr = nullptr;
+    Category c{};
+    char buffer[TEXT_LENGTH]{};
+    while (true)
+    {
+        // ZT132U54,Sardoche,4.41,1:41:48
+        fin.getline(buffer, TEXT_LENGTH, ',');
+        if (fin.eof()) break;
+        c.name = read_string(fin, ',');
+        // te quedaste aqui , falta leer el archivo y asignarlo a su nodo correspondiente
+        // no estas tan mal para empezar , la cosa es que escribas mas rapido
+        // palteas
+
     }
     fin.close();
 }
