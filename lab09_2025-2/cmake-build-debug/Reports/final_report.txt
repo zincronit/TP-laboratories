@@ -1,0 +1,1301 @@
+                                        REPORT OF CATEGORIES
+Code:          VS157U81
+Name:          abiotic factor
+Description:   Co-op survival; crafting; exploration; and base defense.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  summit1g
+DURATION:     00:38:53
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.572   4.036   
+DROP-OFF AVERAGE: 3.804
+TIME TOTAL DURATION: 00:49:58
+====================================================================================================
+Code:          VB136P13
+Name:          age of empires ii
+Description:   RTS; build orders; ranked matches; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCK_Korea
+DURATION:     01:19:55
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.828   
+DROP-OFF AVERAGE: 2.828
+TIME TOTAL DURATION: 01:19:55
+====================================================================================================
+Code:          VG156H76
+Name:          albion online
+Description:   Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCK_Korea
+DURATION:     01:14:44
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.065   1.584   2.821   3.16   3.508   
+DROP-OFF AVERAGE: 2.6276
+TIME TOTAL DURATION: 03:29:06
+====================================================================================================
+Code:          BK137V33
+Name:          always on
+Description:   24/7 channels with loops; cams; and continuous programming.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Fextralife
+DURATION:     02:05:51
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.494   3.435   1.187   2.215   4.781   
+DROP-OFF AVERAGE: 3.0224
+TIME TOTAL DURATION: 04:34:36
+====================================================================================================
+Code:          YC193H47
+Name:          animals aquariums and zoos
+Description:   Live animal cams; care streams; and zoo tours.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  hanryang1125
+DURATION:     02:10:19
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.879   4.906   4.581   4.68   1.183   
+DROP-OFF AVERAGE: 3.8458
+TIME TOTAL DURATION: 06:39:18
+====================================================================================================
+Code:          KI146T56
+Name:          apex legends
+Description:   Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Asmongold
+DURATION:     00:38:36
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.712   
+DROP-OFF AVERAGE: 3.712
+TIME TOTAL DURATION: 00:38:36
+====================================================================================================
+Code:          OR112F58
+Name:          are you smarter than a 5th grader
+Description:   Quiz/show game sessions with viewers.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  DrDisrespect
+DURATION:     01:41:40
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.811   4.723   4.39   
+DROP-OFF AVERAGE: 4.308
+TIME TOTAL DURATION: 03:16:26
+====================================================================================================
+Code:          DA182Q73
+Name:          arena breakout  infinite
+Description:   Extraction FPS; builds; raids; and economy.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TheRealKnossi
+DURATION:     00:47:40
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.081   
+DROP-OFF AVERAGE: 4.081
+TIME TOTAL DURATION: 00:47:40
+====================================================================================================
+Code:          HW116B55
+Name:          art
+Description:   Live drawing; painting; 3D modeling; and illustration workflows.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCS
+DURATION:     01:48:26
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.454   4.036   2.875   
+DROP-OFF AVERAGE: 3.455
+TIME TOTAL DURATION: 02:29:20
+====================================================================================================
+Code:          KS132B14
+Name:          asmr
+Description:   Whispered and sound-focused relaxation to help sleep and study.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Yassuo
+DURATION:     02:18:06
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.578   3.996   2.688   1.159   1.449   
+DROP-OFF AVERAGE: 2.774
+TIME TOTAL DURATION: 06:27:22
+====================================================================================================
+Code:          IR129C28
+Name:          battlefield 2042
+Description:   Large-scale FPS; conquest; portal modes; and specialists.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TheRealKnossi
+DURATION:     01:51:01
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.658   
+DROP-OFF AVERAGE: 2.658
+TIME TOTAL DURATION: 01:51:01
+====================================================================================================
+Code:          BC173T92
+Name:          blue protocol  star resonance
+Description:   Online action RPG with an anime vibe; quests and co-op.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  NICKMERCS
+DURATION:     02:12:20
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.996   1.953   2.482   1.796   1.555   
+DROP-OFF AVERAGE: 2.3564
+TIME TOTAL DURATION: 05:50:46
+====================================================================================================
+Code:          EB132T28
+Name:          call of duty
+Description:   General CoD category; multiplayer; BR; and Zombies across titles.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  DrDisrespect
+DURATION:     02:21:33
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.918   1.855   1.111   1.516   3.54   2.083   
+DROP-OFF AVERAGE: 2.00383
+TIME TOTAL DURATION: 09:27:31
+====================================================================================================
+Code:          LO141I68
+Name:          call of duty  black ops 6
+Description:   CoD entry; multiplayer; Zombies; and campaign runs.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Castro_1021
+DURATION:     02:15:22
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.26   1.045   3.249   4.912   3.376   
+DROP-OFF AVERAGE: 3.3684
+TIME TOTAL DURATION: 06:09:21
+====================================================================================================
+Code:          QC176I92
+Name:          call of duty  warzone
+Description:   BR metas; loadouts; high-kill lobbies; and ranked Resurgence.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCK_Korea
+DURATION:     01:32:01
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.958   1.413   3.123   2.352   4.418   
+DROP-OFF AVERAGE: 2.8528
+TIME TOTAL DURATION: 05:02:41
+====================================================================================================
+Code:          TP152U58
+Name:          chess
+Description:   Chess games; puzzles; speed chess; and commentary.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  riotgames
+DURATION:     01:04:31
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.716   2.236   
+DROP-OFF AVERAGE: 2.476
+TIME TOTAL DURATION: 01:46:08
+====================================================================================================
+Code:          XL132F68
+Name:          clair obscur  expedition 33
+Description:   Story-driven RPG; playthroughs and theorycrafting.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  DrLupo
+DURATION:     01:58:13
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.906   3.963   2.969   
+DROP-OFF AVERAGE: 2.946
+TIME TOTAL DURATION: 04:34:10
+====================================================================================================
+Code:          DQ172M16
+Name:          clash royale
+Description:   Mobile RTS; ladder; challenges; deck building; and tips.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TFBlade
+DURATION:     02:00:14
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.234   2.315   4.718   4.142   4.561   2.959   
+DROP-OFF AVERAGE: 3.65483
+TIME TOTAL DURATION: 07:56:46
+====================================================================================================
+Code:          QU119C56
+Name:          counter strike
+Description:   Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCK_Korea
+DURATION:     01:35:20
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.417   3.686   2.599   1.606   3.361   
+DROP-OFF AVERAGE: 2.5338
+TIME TOTAL DURATION: 03:52:52
+====================================================================================================
+Code:          II162W87
+Name:          crypto
+Description:   Crypto markets talk; education; and web3 project coverage.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Asmongold
+DURATION:     02:17:14
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.418   1.584   3.125   4.123   
+DROP-OFF AVERAGE: 3.3125
+TIME TOTAL DURATION: 05:31:21
+====================================================================================================
+Code:          LN112E45
+Name:          dead by daylight
+Description:   4v1 horror; killer/survivor gameplay; builds; and customs.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  OgamingLoL
+DURATION:     02:17:14
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.533   4.171   4.74   2.097   1.18   3.166   1.408   4.52   
+DROP-OFF AVERAGE: 3.10188
+TIME TOTAL DURATION: 12:32:50
+====================================================================================================
+Code:          LB198Z91
+Name:          deadlock
+Description:   Competitive shooter/MOBA hybrid; matches and meta testing.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Lord_Kebun
+DURATION:     02:17:14
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.105   1.268   2.675   2.742   1.098   2.203   2.397   2.18   
+DROP-OFF AVERAGE: 1.9585
+TIME TOTAL DURATION: 12:56:27
+====================================================================================================
+Code:          RL171J41
+Name:          delta force
+Description:   Tactical shooter; squad play; extraction/objective modes.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Evelone192
+DURATION:     01:36:03
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.084   1.602   2.563   4.243   
+DROP-OFF AVERAGE: 2.623
+TIME TOTAL DURATION: 03:15:07
+====================================================================================================
+Code:          KB123B15
+Name:          destiny 2
+Description:   Looter-shooter; raids; Trials; builds; and seasonal content.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Gotaga
+DURATION:     02:05:34
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.07   1.451   4.327   2.574   4.106   
+DROP-OFF AVERAGE: 2.9056
+TIME TOTAL DURATION: 05:52:39
+====================================================================================================
+Code:          NU114V45
+Name:          djs
+Description:   DJ sets; mixing; and live club-style performances.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  GamesDoneQuick
+DURATION:     02:21:16
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.972   2.476   
+DROP-OFF AVERAGE: 3.724
+TIME TOTAL DURATION: 02:41:34
+====================================================================================================
+Code:          NL146N94
+Name:          dota 2
+Description:   5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Tfue
+DURATION:     02:21:16
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.659   3.742   3.71   3.237   3.379   1.816   1.567   1.94   
+DROP-OFF AVERAGE: 2.75625
+TIME TOTAL DURATION: 10:22:39
+====================================================================================================
+Code:          PY187C33
+Name:          ea sports fc 25
+Description:   Football/soccer; Ultimate Team; Seasons; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  HasanAbi
+DURATION:     01:58:57
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.571   1.973   4.965   1.282   3.034   
+DROP-OFF AVERAGE: 2.965
+TIME TOTAL DURATION: 05:36:41
+====================================================================================================
+Code:          HV185O43
+Name:          elden ring
+Description:   Soulslike ARPG; challenge runs; builds; and boss fights.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  riotgames
+DURATION:     02:11:11
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.94   3.284   3.534   2.457   2.369   2.115   
+DROP-OFF AVERAGE: 3.1165
+TIME TOTAL DURATION: 07:08:41
+====================================================================================================
+Code:          QR146D97
+Name:          escape from tarkov
+Description:   Extraction shooter; raids; looting routes; wipes; and market.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  summit1g
+DURATION:     00:21:53
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.991   4.967   
+DROP-OFF AVERAGE: 4.979
+TIME TOTAL DURATION: 00:42:03
+====================================================================================================
+Code:          TM145B57
+Name:          eternal return
+Description:   MOBA/BR hybrid; characters; routes; and ranked.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  DrDisrespect
+DURATION:     02:21:50
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.403   2.233   2.938   
+DROP-OFF AVERAGE: 3.19133
+TIME TOTAL DURATION: 03:15:50
+====================================================================================================
+Code:          UE163E26
+Name:          final fantasy xiv online
+Description:   MMORPG; MSQ; raids; glam; and daily roulettes.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Evelone192
+DURATION:     01:40:05
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.193   1.858   1.139   1.223   1.449   3.517   2.36   
+DROP-OFF AVERAGE: 2.10557
+TIME TOTAL DURATION: 08:13:56
+====================================================================================================
+Code:          MJ182W35
+Name:          fortnite
+Description:   Battle royale & creative modes; arena grind; events; and challenges.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  YoDa
+DURATION:     02:04:08
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.503   4.408   4.335   4.988   
+DROP-OFF AVERAGE: 3.8085
+TIME TOTAL DURATION: 04:44:33
+====================================================================================================
+Code:          NO156F14
+Name:          foxhole
+Description:   Massive war MMO; logistics; fronts; and player-driven battles.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Fextralife
+DURATION:     01:55:21
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.443   1.035   3.62   3.26   2.784   
+DROP-OFF AVERAGE: 3.0284
+TIME TOTAL DURATION: 06:50:42
+====================================================================================================
+Code:          NN197G83
+Name:          games + demos
+Description:   Demos and showcases for new and indie games.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Castro_1021
+DURATION:     02:19:15
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.063   3.957   
+DROP-OFF AVERAGE: 2.51
+TIME TOTAL DURATION: 04:14:27
+====================================================================================================
+Code:          DU188A83
+Name:          garrys mod
+Description:   Sandbox & community modes; RP; TTT; and minigames.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Castro_1021
+DURATION:     01:51:10
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.589   4.032   2.072   4.114   
+DROP-OFF AVERAGE: 2.95175
+TIME TOTAL DURATION: 05:52:47
+====================================================================================================
+Code:          VD139J89
+Name:          gears of war  reloaded
+Description:   Cover-based shooter; campaign playthroughs and versus.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Lord_Kebun
+DURATION:     01:51:10
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.389   4.184   1.214   3.948   
+DROP-OFF AVERAGE: 2.68375
+TIME TOTAL DURATION: 05:11:20
+====================================================================================================
+Code:          AN114F11
+Name:          geoguessr
+Description:   Geography guessing; streaks; duels; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Lord_Kebun
+DURATION:     00:37:26
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.807   2.55   
+DROP-OFF AVERAGE: 3.1785
+TIME TOTAL DURATION: 00:45:56
+====================================================================================================
+Code:          TZ196V36
+Name:          grand theft auto v
+Description:   Open-world gameplay: GTA Online missions
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LIRIK
+DURATION:     02:17:05
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.18   1.127   4.432   3.869   
+DROP-OFF AVERAGE: 2.902
+TIME TOTAL DURATION: 05:03:06
+====================================================================================================
+Code:          KF142D45
+Name:          guild wars 2
+Description:   MMORPG; WvW; fractals; raids; and fashion.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  NICKMERCS
+DURATION:     00:58:02
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.656   4.207   4.768   1.676   
+DROP-OFF AVERAGE: 3.57675
+TIME TOTAL DURATION: 01:53:12
+====================================================================================================
+Code:          NA174D77
+Name:          guilty gear  strive
+Description:   1v1 fighter; training mode tech; sets; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  handongsuk
+DURATION:     02:21:50
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.775   1.142   3.276   1.907   2.917   
+DROP-OFF AVERAGE: 2.8034
+TIME TOTAL DURATION: 08:32:39
+====================================================================================================
+Code:          OZ151I97
+Name:          haunted room  205
+Description:   Horror/escape; investigation; puzzles; and scares.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TFBlade
+DURATION:     02:14:21
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.299   3.615   3.175   4.413   4.618   1.136   
+DROP-OFF AVERAGE: 3.54267
+TIME TOTAL DURATION: 05:40:07
+====================================================================================================
+Code:          RN127Z69
+Name:          hearthstone
+Description:   Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  GamesDoneQuick
+DURATION:     02:18:32
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.763   3.218   
+DROP-OFF AVERAGE: 3.4905
+TIME TOTAL DURATION: 03:33:51
+====================================================================================================
+Code:          VX165C97
+Name:          helldivers 2
+Description:   Co-op shooter; operations; weapons; and stratagems.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  summit1g
+DURATION:     02:06:35
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.328   2.076   3.035   
+DROP-OFF AVERAGE: 2.813
+TIME TOTAL DURATION: 03:14:15
+====================================================================================================
+Code:          AZ147L57
+Name:          heroes of might and magic iii
+Description:   Turn-based strategy; campaigns and PvP.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TimTheTatman
+DURATION:     02:12:03
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.063   4.882   2.197   1.394   
+DROP-OFF AVERAGE: 2.884
+TIME TOTAL DURATION: 04:33:45
+====================================================================================================
+Code:          LJ159A55
+Name:          hollow knight
+Description:   Metroidvania; challenge runs; speedruns; and full completions.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Anomaly
+DURATION:     02:04:25
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.745   4.769   
+DROP-OFF AVERAGE: 3.257
+TIME TOTAL DURATION: 03:57:36
+====================================================================================================
+Code:          AE182A15
+Name:          im only sleeping
+Description:   "�Sleep"" streams with chat interactions and ambience."
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  OgamingLoL
+DURATION:     01:37:55
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.527   3.771   3.576   
+DROP-OFF AVERAGE: 3.958
+TIME TOTAL DURATION: 02:34:57
+====================================================================================================
+Code:          XG132J21
+Name:          irl
+Description:   Real-life streaming: travel; city walks; food tours; and daily life.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LIRIK
+DURATION:     01:30:09
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.618   4.664   1.333   2.632   
+DROP-OFF AVERAGE: 2.81175
+TIME TOTAL DURATION: 03:35:17
+====================================================================================================
+Code:          UM163F47
+Name:          just chatting
+Description:   Casual conversations; reactions; and hangouts without a main game.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Anomaly
+DURATION:     02:08:10
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.377   3.228   2.484   
+DROP-OFF AVERAGE: 2.363
+TIME TOTAL DURATION: 04:36:12
+====================================================================================================
+Code:          RK128P86
+Name:          last epoch
+Description:   ARPG; endgame monoliths; builds; crafting; and loot hunts.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Fresh
+DURATION:     01:39:04
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.542   3.007   4.897   2.427   
+DROP-OFF AVERAGE: 3.46825
+TIME TOTAL DURATION: 02:38:50
+====================================================================================================
+Code:          DN124W94
+Name:          league of legends
+Description:   5v5 MOBA; ranked climbs; pro play analysis; and coaching.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Gaules
+DURATION:     02:23:25
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.976   3.778   2.134   
+DROP-OFF AVERAGE: 3.296
+TIME TOTAL DURATION: 05:27:01
+====================================================================================================
+Code:          CG165W46
+Name:          madden nfl 26
+Description:   American football; Franchise; MUT; and head-to-head play.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCS
+DURATION:     01:48:52
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.643   2.722   1.795   1.035   1.614   
+DROP-OFF AVERAGE: 1.9618
+TIME TOTAL DURATION: 06:21:44
+====================================================================================================
+Code:          QA163C53
+Name:          magic  the gathering
+Description:   TCG; Arena/paper play; deck tech; and events.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  riotgames
+DURATION:     02:19:58
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.389   1.654   4.601   1.861   4.373   4.165   3.575   
+DROP-OFF AVERAGE: 3.374
+TIME TOTAL DURATION: 11:10:11
+====================================================================================================
+Code:          CW154A34
+Name:          marbles on stream
+Description:   Chat-controlled marble races and events.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Solary
+DURATION:     02:13:47
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.96   1.349   4.638   2.577   2.613   1.531   2.912   1.052   
+DROP-OFF AVERAGE: 2.329
+TIME TOTAL DURATION: 10:03:30
+====================================================================================================
+Code:          WT179Q13
+Name:          marvel rivals
+Description:   Team shooter with Marvel heroes; matches; comps; and strategies.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Solary
+DURATION:     02:22:42
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.887   4.888   4.047   4.448   2.448   4.341   
+DROP-OFF AVERAGE: 3.6765
+TIME TOTAL DURATION: 10:16:18
+====================================================================================================
+Code:          WC173Z82
+Name:          metal gear solid delta  snake eater
+Description:   Stealth-action remake playthroughs; challenges; and lore.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  ESL_CSGO
+DURATION:     01:44:07
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.402   3.593   3.843   1.536   
+DROP-OFF AVERAGE: 2.8435
+TIME TOTAL DURATION: 04:05:22
+====================================================================================================
+Code:          AF136N84
+Name:          metal gear solid v  the phantom pain
+Description:   Sandbox stealth-action; missions and mods.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  MOONMOON
+DURATION:     01:08:07
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.703   
+DROP-OFF AVERAGE: 4.703
+TIME TOTAL DURATION: 01:08:07
+====================================================================================================
+Code:          KS179K68
+Name:          metin2
+Description:   Classic MMORPG; grinding; dungeons; and PvP.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Dota2RuHub
+DURATION:     02:19:41
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.703   4.657   2.286   4.527   3.183   1.776   1.932   
+DROP-OFF AVERAGE: 3.152
+TIME TOTAL DURATION: 06:20:10
+====================================================================================================
+Code:          DT153T53
+Name:          minecraft
+Description:   Survival; creative builds; minigames; speedruns; and modded packs.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  ibai
+DURATION:     00:19:26
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.652   
+DROP-OFF AVERAGE: 2.652
+TIME TOTAL DURATION: 00:19:26
+====================================================================================================
+Code:          MK171R42
+Name:          mobile legends  bang bang
+Description:   Mobile MOBA; ranked grind and events.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  hanryang1125
+DURATION:     00:43:21
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.184   
+DROP-OFF AVERAGE: 3.184
+TIME TOTAL DURATION: 00:43:21
+====================================================================================================
+Code:          UW174Q61
+Name:          music
+Description:   Live music: covers; songwriting; production; and jam sessions.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  alanzoka
+DURATION:     02:21:59
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.587   1.883   3.873   4.764   1.887   
+DROP-OFF AVERAGE: 3.3988
+TIME TOTAL DURATION: 05:16:47
+====================================================================================================
+Code:          ZT132U54
+Name:          oh deer
+Description:   Light indie experience; exploration and humor.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Sardoche
+DURATION:     01:41:48
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.41   3.853   4.037   3.101   2.322   
+DROP-OFF AVERAGE: 3.5446
+TIME TOTAL DURATION: 04:40:13
+====================================================================================================
+Code:          RQ191T25
+Name:          old school runescape
+Description:   Classic MMORPG; skilling; PvM bosses; and Ironman runs.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TheGrefg
+DURATION:     01:22:05
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.711   4.41   1.059   
+DROP-OFF AVERAGE: 3.06
+TIME TOTAL DURATION: 01:52:28
+====================================================================================================
+Code:          QT146C58
+Name:          overwatch 2
+Description:   5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Yassuo
+DURATION:     01:20:38
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.107   4.478   
+DROP-OFF AVERAGE: 3.7925
+TIME TOTAL DURATION: 02:13:46
+====================================================================================================
+Code:          LD127Y85
+Name:          path of exile 2
+Description:   ARPG; campaign; league starts; crafting; and bossing.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LCS
+DURATION:     01:59:14
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.444   2.982   3.674   4.773   1.471   
+DROP-OFF AVERAGE: 3.2688
+TIME TOTAL DURATION: 07:33:36
+====================================================================================================
+Code:          CY155Y58
+Name:          peak
+Description:   Competitive/action title; early-meta exploration and live matches.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Lord_Kebun
+DURATION:     02:22:25
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.658   4.134   2.705   3.989   2.699   
+DROP-OFF AVERAGE: 3.037
+TIME TOTAL DURATION: 07:45:07
+====================================================================================================
+Code:          MD184K15
+Name:          phasmophobia
+Description:   Co-op ghost hunting; investigations and challenge runs.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  alanzoka
+DURATION:     01:46:34
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.207   2.271   1.401   4.458   3.051   2.691   
+DROP-OFF AVERAGE: 3.01317
+TIME TOTAL DURATION: 07:02:29
+====================================================================================================
+Code:          IC184W19
+Name:          pokemon community game
+Description:   Chat-driven Pokemon minigame played in-stream.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  YoDa
+DURATION:     01:26:59
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.789   1.317   3.548   1.498   4.969   3.635   
+DROP-OFF AVERAGE: 2.79267
+TIME TOTAL DURATION: 05:43:09
+====================================================================================================
+Code:          XC175U15
+Name:          poker
+Description:   Live poker tables; analysis; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  hanryang1125
+DURATION:     01:29:25
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.554   1.06   2.437   4.402   
+DROP-OFF AVERAGE: 2.86325
+TIME TOTAL DURATION: 03:24:46
+====================================================================================================
+Code:          SJ181Q95
+Name:          pools hot tubs and beaches
+Description:   Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  loltyler1
+DURATION:     02:20:15
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.666   2.643   2.465   1.299   2.031   2.448   
+DROP-OFF AVERAGE: 2.592
+TIME TOTAL DURATION: 09:34:16
+====================================================================================================
+Code:          ET182T41
+Name:          project zomboid
+Description:   Survival sim; base building; mods; and RP servers.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TimTheTatman
+DURATION:     02:15:22
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.369   2.784   3.105   3.45   3.457   2.436   
+DROP-OFF AVERAGE: 2.76683
+TIME TOTAL DURATION: 10:17:38
+====================================================================================================
+Code:          AK118L96
+Name:          pubg  battlegrounds
+Description:   Tactical battle royale; rotations; clutches; and team comps.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  hanryang1125
+DURATION:     02:22:16
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.208   1.768   3.146   2.964   4.574   4.035   
+DROP-OFF AVERAGE: 3.11583
+TIME TOTAL DURATION: 12:20:37
+====================================================================================================
+Code:          AN121I85
+Name:          red dead redemption 2
+Description:   Open-world Western; story; online; and RP.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Castro_1021
+DURATION:     02:14:47
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.806   2.235   2.615   1.288   3.679   2.408   
+DROP-OFF AVERAGE: 2.3385
+TIME TOTAL DURATION: 10:19:55
+====================================================================================================
+Code:          ZG113P58
+Name:          retro
+Description:   Classic and retro gaming; speedruns; challenges; and nostalgia.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  YoDa
+DURATION:     01:53:37
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.851   4.343   1.19   4.074   4.052   
+DROP-OFF AVERAGE: 3.302
+TIME TOTAL DURATION: 05:23:08
+====================================================================================================
+Code:          OA138Q42
+Name:          rimworld
+Description:   Colony sim; storytelling runs; modpacks; and challenge scenarios.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  auronplay
+DURATION:     02:05:17
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.026   1.655   2.272   1.652   
+DROP-OFF AVERAGE: 2.15125
+TIME TOTAL DURATION: 06:38:53
+====================================================================================================
+Code:          NZ127Y46
+Name:          roblox
+Description:   Community-made experiences: obbies; roleplay; and minigames.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  summit1g
+DURATION:     01:02:47
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.811   
+DROP-OFF AVERAGE: 2.811
+TIME TOTAL DURATION: 01:02:47
+====================================================================================================
+Code:          RO195M41
+Name:          rocket league
+Description:   Car-soccer; ranked playlists; freestyling; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  ESL_CSGO
+DURATION:     02:11:37
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.727   2.295   2.176   
+DROP-OFF AVERAGE: 2.39933
+TIME TOTAL DURATION: 04:21:22
+====================================================================================================
+Code:          EW188U26
+Name:          rust
+Description:   Survival PvP; wipe days; raids; bases; and team warfare.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Rubius
+DURATION:     02:13:47
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.485   2.078   1.526   3.098   2.009   4.695   1.476   
+DROP-OFF AVERAGE: 2.62386
+TIME TOTAL DURATION: 09:50:16
+====================================================================================================
+Code:          AG139R21
+Name:          sea of thieves
+Description:   Co-op pirate adventures; voyages and PvP.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TFBlade
+DURATION:     01:31:00
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.067   2.403   
+DROP-OFF AVERAGE: 1.735
+TIME TOTAL DURATION: 02:00:31
+====================================================================================================
+Code:          FE115G27
+Name:          shadowverse  worlds beyond
+Description:   Anime-style CCG; ladder; tournaments; and deck tech.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Solary
+DURATION:     02:14:47
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.768   3.825   3.897   1.858   
+DROP-OFF AVERAGE: 3.587
+TIME TOTAL DURATION: 04:15:53
+====================================================================================================
+Code:          KK121N95
+Name:          shine post  be your idol 
+Description:   Rhythm/idol content; music performance and progression.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  CohhCarnage
+DURATION:     01:26:41
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.476   3.939   4.383   
+DROP-OFF AVERAGE: 3.266
+TIME TOTAL DURATION: 03:36:17
+====================================================================================================
+Code:          GW115W74
+Name:          slots
+Description:   Slot machine streams and related casino content.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Fresh
+DURATION:     00:36:00
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.148   
+DROP-OFF AVERAGE: 1.148
+TIME TOTAL DURATION: 00:36:00
+====================================================================================================
+Code:          NN179A87
+Name:          software and game development
+Description:   Live coding; game engines; tools; and devlogs.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  riotgames
+DURATION:     01:47:25
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.477   1.162   4.015   4.607   
+DROP-OFF AVERAGE: 2.81525
+TIME TOTAL DURATION: 04:19:38
+====================================================================================================
+Code:          MI118Y35
+Name:          special events
+Description:   One-off broadcasts: showcases; charity streams; and premieres.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  xQcOW
+DURATION:     02:17:31
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.241   4.905   1.34   3.068   2.807   2.926   3.843   2.901   4.811   
+DROP-OFF AVERAGE: 3.09356
+TIME TOTAL DURATION: 11:02:25
+====================================================================================================
+Code:          PK187T86
+Name:          sports
+Description:   Sports talk; watch-alongs; management sims; and highlights.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Tfue
+DURATION:     02:07:35
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.011   3.368   4.499   
+DROP-OFF AVERAGE: 3.95933
+TIME TOTAL DURATION: 03:35:34
+====================================================================================================
+Code:          BQ199B68
+Name:          star citizen
+Description:   Space sim; ships; trading; org operations; and events.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  ROSHTEIN
+DURATION:     01:55:12
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.325   1.51   4.107   
+DROP-OFF AVERAGE: 3.314
+TIME TOTAL DURATION: 05:23:08
+====================================================================================================
+Code:          BQ129A71
+Name:          street fighter 6
+Description:   1v1 fighting; ranked sets; lab work; tech; and tournaments.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Fresh
+DURATION:     00:43:21
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.393   3.34   
+DROP-OFF AVERAGE: 2.8665
+TIME TOTAL DURATION: 00:45:57
+====================================================================================================
+Code:          VD125K99
+Name:          supermarket simulator
+Description:   Management sim; build and run your own grocery store.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  xQcOW
+DURATION:     01:52:02
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.339   1.973   2.908   4.185   
+DROP-OFF AVERAGE: 2.60125
+TIME TOTAL DURATION: 03:11:06
+====================================================================================================
+Code:          BA171U58
+Name:          talk shows & podcasts
+Description:   Live interviews; panels; and podcast recordings.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Fextralife
+DURATION:     02:22:42
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.71   3.301   1.978   1.106   4.36   
+DROP-OFF AVERAGE: 2.491
+TIME TOTAL DURATION: 06:18:25
+====================================================================================================
+Code:          KO184K63
+Name:          teamfight tactics
+Description:   Auto-battler; patch meta comps; high-ELO ladders; and tips.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Pestily
+DURATION:     01:09:24
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.115   1.43   3.546   
+DROP-OFF AVERAGE: 2.36367
+TIME TOTAL DURATION: 02:33:30
+====================================================================================================
+Code:          PA184Q16
+Name:          tibia
+Description:   Classic MMORPG; hunts; quests; and guild events.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  ESL_CSGO
+DURATION:     01:59:48
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.055   4.686   1.417   4.166   4.963   
+DROP-OFF AVERAGE: 3.2574
+TIME TOTAL DURATION: 04:21:29
+====================================================================================================
+Code:          ZU177L96
+Name:          tom clancys rainbow six siege x
+Description:   Tactical FPS; strats; ranked; and operator guides.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  TheRealKnossi
+DURATION:     01:31:00
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.566   1.397   
+DROP-OFF AVERAGE: 2.9815
+TIME TOTAL DURATION: 02:21:33
+====================================================================================================
+Code:          LH114O61
+Name:          valorant
+Description:   Hero-based 5v5 FPS; ranked; team scrims; agent guides
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  DrLupo
+DURATION:     02:19:32
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.656   1.14   1.125   1.444   3.119   
+DROP-OFF AVERAGE: 2.0968
+TIME TOTAL DURATION: 05:56:32
+====================================================================================================
+Code:          BY199O22
+Name:          variety
+Description:   Mixed-content channels rotating games and formats frequently.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Evelone192
+DURATION:     01:36:29
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.884   3.237   
+DROP-OFF AVERAGE: 2.5605
+TIME TOTAL DURATION: 01:55:04
+====================================================================================================
+Code:          NS118H61
+Name:          virtual casino
+Description:   Virtual casino-style games and demonstrations.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Asmongold
+DURATION:     01:51:36
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.646   3.534   3.265   
+DROP-OFF AVERAGE: 2.815
+TIME TOTAL DURATION: 02:06:52
+====================================================================================================
+Code:          CV195R73
+Name:          vrchat
+Description:   Social VR; avatar showcases; world hopping; and meetups.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  ibai
+DURATION:     02:17:05
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.494   
+DROP-OFF AVERAGE: 1.494
+TIME TOTAL DURATION: 02:17:05
+====================================================================================================
+Code:          PC112O99
+Name:          warframe
+Description:   Looter-shooter; frame builds; relic farming; and endgame grinds.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  alanzoka
+DURATION:     02:02:50
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 1.44   1.679   4.384   4.37   
+DROP-OFF AVERAGE: 2.96825
+TIME TOTAL DURATION: 05:03:08
+====================================================================================================
+Code:          RD128Y57
+Name:          world of tanks
+Description:   Tank warfare; tech tree grinds; clan wars; and missions.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  MOONMOON
+DURATION:     02:08:27
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 4.761   1.337   4.173   4.957   3.225   
+DROP-OFF AVERAGE: 3.6906
+TIME TOTAL DURATION: 06:01:26
+====================================================================================================
+Code:          DB186L52
+Name:          world of warcraft
+Description:   MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Pestily
+DURATION:     01:19:47
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.861   2.426   2.483   1.14   
+DROP-OFF AVERAGE: 2.2275
+TIME TOTAL DURATION: 03:37:19
+====================================================================================================
+Code:          VO168I62
+Name:          world of warships
+Description:   Naval combat; grinds; clans; and ranked.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  Yassuo
+DURATION:     02:06:17
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 2.572   3.708   2.1   2.633   
+DROP-OFF AVERAGE: 2.75325
+TIME TOTAL DURATION: 06:34:24
+====================================================================================================
+Code:          TB183R89
+Name:          wuthering waves
+Description:   Gacha ARPG; pulls; builds; and open-world exploration.
+----------------------------------------------------------------------------------------------------
+INFORMATION OF REPRODUCCTIONS:
+MAX DURATION:
+CHANNEL NAME:  LEC
+DURATION:     02:18:14
+----------------------------------------------------------------------------------------------------
+LIST DROP-OFF: 3.662   2.666   
+DROP-OFF AVERAGE: 3.164
+TIME TOTAL DURATION: 02:58:16
+====================================================================================================

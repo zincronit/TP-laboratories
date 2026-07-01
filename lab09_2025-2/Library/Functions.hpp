@@ -23,4 +23,10 @@ void print_data_categories(const char* filepath,
                            List& list);
 void print_report(const char* filepath, struct List& list, bool first_part);
 
+void read_data_reproductions_file(const char* filepath,
+                                  struct List& list);
+
+void calculate_avg_drop_off(struct List& list);
+
+
 #endif //LAB09_2025_2_FUNCTIONS_HPP

@@ -83,20 +83,29 @@ void initialize_list(struct List& list)
 }
 
 //
-// Category assign_category(Category& c)
-// {
-//     Category temp;
-//     temp.code = assign_string(c.code);
-//     temp.name = assign_string(c.name);
-//     temp.description = assign_string(c.description);
-//     return temp;
-// }
+Category assign_category(Category& c)
+{
+    Category temp{};
+    temp.code = assign_string(c.code);
+    temp.name = assign_string(c.name);
+    temp.description = assign_string(c.description);
+    if (c.channel_max_duration != nullptr) temp.channel_max_duration = assign_string(c.channel_max_duration);
+    temp.max_duration = c.max_duration;
+    temp.total_duration = c.total_duration;
+    for (int i = 0; i < c.reproductions_count; i++)
+    {
+        temp.arr_drop_off[i] == c.arr_drop_off[i];
+    }
+    temp.reproductions_count = c.reproductions_count;
+    temp.avg_drop_off = c.avg_drop_off;
+    return temp;
+}
 
 void insert_front(struct List& list, Category& c)
 {
     Node* new_node;
     new_node = new Node;
-    new_node->category = c;
+    new_node->category = assign_category(c);
     // new_node->category = assign_category(c);
     new_node->next = nullptr;
     if (list.head == nullptr)
@@ -108,6 +117,7 @@ void insert_front(struct List& list, Category& c)
     {
         new_node->next = list.head;
         list.head = new_node;
+        list.size++;
     }
 }
 
@@ -128,6 +138,7 @@ void insert_front(struct List& list, Category& c)
 //     else
 //     {
 //         list.tail = new_node;
+//         list.size++;
 //     }
 // }
 
@@ -136,7 +147,7 @@ void insert_back(struct List& list, Category& c)
     // without pointer Node* tail;
     Node* new_node;
     new_node = new Node;
-    new_node->category = c;
+    new_node->category = assign_category(c);
     new_node->next = nullptr;
     if (list.head == nullptr)
     {
@@ -151,6 +162,7 @@ void insert_back(struct List& list, Category& c)
             temp = temp->next;
         }
         temp->next = new_node;
+        list.size++;
     }
 }
 
@@ -158,7 +170,7 @@ void insert_sorted(struct List& list, Category& c)
 {
     Node* new_node;
     new_node = new Node;
-    new_node->category = c;
+    new_node->category = assign_category(c);
     new_node->next = nullptr;
     Node* curr = list.head;
     Node* prev = nullptr;
@@ -245,17 +257,23 @@ void print_information(std::ofstream& fout, struct List& list, bool first_part)
         }
         else
         {
-            fout << "INFORMACION DE LAS REPORDUCCIONES" << std::endl;
-            fout << "DURACION MAXIMA" << std::endl;
-            fout << "NOBMRE DE CANAL" << std::endl;
-            fout << std::setw(14) << "NOMBRE DEL CANAL" << c.name << std::endl;
-            fout << std::setw(14) << "DURACION" << c.max_duration << std::endl;
+            fout << "INFORMATION OF REPRODUCCTIONS:" << std::endl;
+            fout << "MAX DURATION:" << std::endl;
+            fout << std::setw(14) << "CHANNEL NAME:  " << c.channel_max_duration << std::endl;
+            fout << std::setw(14) << "DURATION:";
+            print_time(fout, c.max_duration);
+            fout << std::endl;
             print_line(fout, LINE_WIDTH, '-');
-            fout << "LIST DE DROP-OFF ";
+            fout << "LIST DROP-OFF: ";
             for (int i = 0; i < c.reproductions_count; i++)
             {
                 fout << c.arr_drop_off[i] << "   ";
             }
+            fout << std::endl;
+            fout << std::setw(14) << "DROP-OFF AVERAGE: " << c.avg_drop_off << std::endl;
+            fout << std::setw(14) << "TIME TOTAL DURATION: ";
+            print_time(fout, c.total_duration);
+            fout << std::endl;
         }
         print_line(fout, LINE_WIDTH, '=');
         curr = curr->next;
@@ -272,7 +290,7 @@ void print_report(const char* filepath, struct List& list, bool first_part)
     fout.close();
 }
 
-Node* find_pointer(struct List& list, const char* code)
+Node* find_node(struct List& list, const char* code)
 {
     Node* curr = list.head;
     while (curr != nullptr)
@@ -281,6 +299,24 @@ Node* find_pointer(struct List& list, const char* code)
         curr = curr->next;
     }
     return nullptr;
+}
+
+void update_category(std::ifstream& fin,
+                     Category& c,
+                     char* name,
+                     int time)
+{
+    fin.getline(name, TEXT_LENGTH, ',');
+    c.arr_drop_off[c.reproductions_count] = read_double(fin, true);
+    c.reproductions_count++;
+    time = read_time(fin, true);
+    c.total_duration += time;
+    if (time > c.max_duration)
+    {
+        delete[] c.channel_max_duration;
+        c.channel_max_duration = assign_string(name);
+        c.max_duration = time;
+    }
 }
 
 void read_data_reproductions_file(const char* filepath,
@@ -292,29 +328,18 @@ void read_data_reproductions_file(const char* filepath,
     char buffer[TEXT_LENGTH]{}, name[TEXT_LENGTH]{};
     while (true)
     {
-        Category c{};
         // ZT132U54,Sardoche,4.41,1:41:48
         fin.getline(buffer, TEXT_LENGTH, ',');
         if (fin.eof()) break;
-        Node* curr = find_pointer(list, buffer);
+        Node* curr = find_node(list, buffer);
         if (curr == nullptr)
         {
             std::cout << "Not found code " << buffer << std::endl;
             fin.ignore(100, '\n');
             continue;
         }
-        c.channel_max_duration = new char[TEXT_LENGTH]{};
-        fin.getline(name, TEXT_LENGTH, ',');
-        c.arr_drop_off[c.reproductions_count] = read_double(fin, true);
-        c.reproductions_count++;
-        time = read_time(fin, true);
-        c.total_duration += time;
-        if (time > c.max_duration)
-        {
-            std::strcpy(c.channel_max_duration, name);
-            c.max_duration = time;
-        }
-        curr->category = c;
+        Category& c = curr->category;
+        update_category(fin, c, name, time);
     }
     fin.close();
 }

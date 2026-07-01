@@ -13,7 +13,14 @@ int main()
     print_data_categories("Reports/test_report.txt",
                           list);
 
-    print_report("Reports/first_report.txt", list,true);
+    print_report("Reports/first_report.txt", list, true);
+
+    read_data_reproductions_file("Data/stream_reproductions.csv",
+                                 list);
+
+    calculate_avg_drop_off(list);
+
+    print_report("Reports/final_report.txt", list, false);
 
     return 0;
 }
