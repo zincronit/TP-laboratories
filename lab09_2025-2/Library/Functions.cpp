@@ -243,6 +243,20 @@ void print_information(std::ofstream& fout, struct List& list, bool first_part)
         {
             fout << "NONE" << std::endl;
         }
+        else
+        {
+            fout << "INFORMACION DE LAS REPORDUCCIONES" << std::endl;
+            fout << "DURACION MAXIMA" << std::endl;
+            fout << "NOBMRE DE CANAL" << std::endl;
+            fout << std::setw(14) << "NOMBRE DEL CANAL" << c.name << std::endl;
+            fout << std::setw(14) << "DURACION" << c.max_duration << std::endl;
+            print_line(fout, LINE_WIDTH, '-');
+            fout << "LIST DE DROP-OFF ";
+            for (int i = 0; i < c.reproductions_count; i++)
+            {
+                fout << c.arr_drop_off[i] << "   ";
+            }
+        }
         print_line(fout, LINE_WIDTH, '=');
         curr = curr->next;
     }
@@ -258,12 +272,12 @@ void print_report(const char* filepath, struct List& list, bool first_part)
     fout.close();
 }
 
-Node* find_pointer(struct List& list, Category& c)
+Node* find_pointer(struct List& list, const char* code)
 {
     Node* curr = list.head;
     while (curr != nullptr)
     {
-        if (std::strcmp(curr->category.code,c.code) == 0) return curr;
+        if (std::strcmp(curr->category.code, code) == 0) return curr;
         curr = curr->next;
     }
     return nullptr;
@@ -274,19 +288,45 @@ void read_data_reproductions_file(const char* filepath,
 {
     std::ifstream fin;
     open_input_file(fin, filepath);
-    Node* curr = nullptr;
-    Category c{};
-    char buffer[TEXT_LENGTH]{};
+    int time = 0;
+    char buffer[TEXT_LENGTH]{}, name[TEXT_LENGTH]{};
     while (true)
     {
+        Category c{};
         // ZT132U54,Sardoche,4.41,1:41:48
         fin.getline(buffer, TEXT_LENGTH, ',');
         if (fin.eof()) break;
-        c.name = read_string(fin, ',');
-        // te quedaste aqui , falta leer el archivo y asignarlo a su nodo correspondiente
-        // no estas tan mal para empezar , la cosa es que escribas mas rapido
-        // palteas
-
+        Node* curr = find_pointer(list, buffer);
+        if (curr == nullptr)
+        {
+            std::cout << "Not found code " << buffer << std::endl;
+            fin.ignore(100, '\n');
+            continue;
+        }
+        c.channel_max_duration = new char[TEXT_LENGTH]{};
+        fin.getline(name, TEXT_LENGTH, ',');
+        c.arr_drop_off[c.reproductions_count] = read_double(fin, true);
+        c.reproductions_count++;
+        time = read_time(fin, true);
+        c.total_duration += time;
+        if (time > c.max_duration)
+        {
+            std::strcpy(c.channel_max_duration, name);
+            c.max_duration = time;
+        }
+        curr->category = c;
     }
     fin.close();
+}
+
+void calculate_avg_drop_off(struct List& list)
+{
+    Node* curr = list.head;
+    while (curr != nullptr)
+    {
+        Category& c = curr->category;
+        for (int i = 0; i < c.reproductions_count; i++) c.avg_drop_off += c.arr_drop_off[i];
+        c.avg_drop_off /= double(c.reproductions_count);
+        curr = curr->next;
+    }
 }
